@@ -1,0 +1,15 @@
+# Generated build output
+**/bin/
+**/obj/
+.vs/
+*.user
+*.suo
+*.cache
+
+# Generated runtime data
+**/Exports/
+**/ImportedABE/
+**/SavedNestReceipts/
+**/NestApiLog/
+**/InventoryApiLog/
+*.log

@@ -1,0 +1,43 @@
+23 November 2026 - v1.12 PDF reader overload fix and single merged report import
+
+PASS: 203 focused batch-save checks. PowerFab responses and numbering reads were mocked.
+PASS: 83 packing/remnant checks.
+PASS: 143 inventory/remnant lifecycle and bottom-strip checks. PowerFab responses were mocked.
+PASS: 66 ABE import checks, including the 170-part pair and H0306 circular-cut NC file.
+PASS: 103 ABE cutting-geometry/profile checks, including actual 240175 sheets, shared 4.5 settings, source retention and SaveNest XML.
+PASS: 32 H0373 actual NC/SY2 and controlled-outline regression checks; 10 mm bottom remnant = 3000 x 1220 mm.
+PASS: 17 ABE sheet-size and new-requisition proposal checks using both actual layout directions.
+PASS: 24 ABE multi-file/folder and 10/12/16 mm batch checks.
+PASS: 40 ABE sheet-report runtime matching, merged/split pages, failure and one-import checks.
+PASS: 55 naming, lot, packer and filename-thickness checks, including the supplied ImportedABE pairs.
+PASS: 34 actual Phase10/11 NC1, automatic grade and clearance regression checks.
+PASS: 54 pointer zoom, panning, fit and clean-preview checks.
+PASS: 76 screen-fit, sheet-ratio and DPI window-sizing checks.
+PASS: 930 total batch-save, packing, inventory/remnant, ABE import and window-sizing checks.
+
+PASS: 14 PowerShell async bridge checks (portable fixture; native WinRT requires Windows).
+
+Production build succeeded: one existing CA2255 advisory; zero errors.
+Native Windows regression project compiled: zero warnings/errors.
+
+Fixed the reported PowerShell AsTask overload failure by explicitly selecting
+AsTask(IAsyncAction). Async action completion output is discarded so it cannot
+corrupt the JSON returned to Hanlon. PDF failures retain the page number and
+reading stage; a failed page does not stop later pages in a merged report.
+
+The 40 report checks exercise separate reports, a single merged report, mixed
+reports, arbitrary filenames, different page order, nested folder discovery,
+file selection, duplicates, conflicts, failure handling, provenance and saved
+runtime metadata. They use captured OCR words from the actual PDF fixtures.
+The 14 portable PowerShell 7.4.6 checks execute the worker's actual bridge with
+an overloaded async fixture, not WinRT.
+
+The production DLL embeds the exact updated ReadAbeReports.ps1 worker.
+The Windows --reports-only runner covers the three separate PDFs, merged PDF
+and a complete folder import containing three NC/SY2 pairs plus one merged PDF.
+Native Windows PDF rendering/OCR and live PowerFab SaveNest/TFS were not executed
+on this Linux host. Runtime matching and PowerFab XML tests are offline checks;
+PowerFab responses and image data in those checks are mocked.
+
+After updating runtime files and restarting PowerFab, re-import the ABE folder.
+Previously imported or saved results are not automatically changed.

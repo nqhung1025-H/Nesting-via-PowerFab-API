@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <OutputType>Library</OutputType>
+    <UseWindowsForms>true</UseWindowsForms>
+    <GenerateRuntimeConfigurationFiles>true</GenerateRuntimeConfigurationFiles>
+    <AssemblyName>Hanlon.PowerFab.Nesting</AssemblyName>
+    <RootNamespace>Hanlon.PowerFab.Nesting</RootNamespace>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Version>1.12.0</Version>
+    <PowerFabExtensionDll Condition="'$(PowerFabExtensionDll)' == ''">$(MSBuildProjectDirectory)\lib\Tekla.PowerFab.Extension.dll</PowerFabExtensionDll>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Clipper2Lib">
+      <HintPath>$(MSBuildProjectDirectory)\lib\Clipper2Lib.dll</HintPath>
+      <Private>true</Private>
+    </Reference>
+    <EmbeddedResource Include="lib\Clipper2Lib.dll" LogicalName="Hanlon.PowerFab.Nesting.Clipper2Lib.dll" />
+    <Reference Include="Tekla.PowerFab.Extension">
+      <HintPath>$(PowerFabExtensionDll)</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Compile Include="src/**/*.cs" />
+    <EmbeddedResource Include="src/ABE/ReadAbeReports.ps1" LogicalName="Hanlon.PowerFab.Nesting.ReadAbeReports.ps1" />
+  </ItemGroup>
+  <Target Name="CheckPowerFabReference" BeforeTargets="ResolveReferences">
+    <Error Condition="!Exists('$(PowerFabExtensionDll)')" Text="Missing PowerFab interface DLL. Copy the .NET 8-compatible Tekla.PowerFab.Extension.dll from your PowerFab installation into this project's lib folder, or set the PowerFabExtensionDll MSBuild property. Check the PowerFab version and extension runtime first; see README.md." />
+  </Target>
+</Project>

@@ -1,0 +1,41 @@
+HANLON POWERFAB NESTING v1.12 - DEVELOPMENT PROJECT
+
+Source code is grouped under src/. Documentation is under docs/.
+This package keeps the source code, build files, required references, tests and
+rebuilt runtime binaries for continued development.
+
+BUILD
+Extract into a new empty folder and use its project root as the working folder.
+Use Windows with the .NET 8 SDK. Run BUILD.cmd from the project root, or use:
+dotnet build Hanlon.PowerFab.Nesting.csproj --configuration Release
+
+The build writes to bin/Release/net8.0-windows/. Use the PowerFab interface DLL
+that matches your PowerFab installation; the supplied reference is in lib/.
+
+INSTALL A BUILD
+Close Hanlon Nesting and PowerFab. Copy these four files from
+bin/Release/net8.0-windows/ into the configured extension runtime folder:
+- Hanlon.PowerFab.Nesting.dll
+- Hanlon.PowerFab.Nesting.deps.json
+- Hanlon.PowerFab.Nesting.runtimeconfig.json
+- Clipper2Lib.dll
+
+The matching .pdb is included for development debugging. Keep the LICENSES
+folder with the installation. Restart PowerFab and check the displayed version.
+
+Continue editing the source project; see README.md and Tests/README.md for
+checks and the development status.
+
+PDF REPORT READING
+Windows 10/11 PDF rendering, Windows PowerShell 5.1 and an installed English OCR
+language are used to read bitmap text in ABE PDF reports. The reader is embedded
+in the extension DLL; there are no extra runtime files to copy.
+Keep NC, SY2 and report PDF files in the selected folder. One merged PDF can
+contain multiple sheets in any order. Verify Process time in the result before
+Save all nests. Missing or conflicting times are shown as unavailable.
+
+UPDATING FROM v1.11
+v1.12 fixes the AsTask overload failure while rendering PDF report pages.
+Copy the four runtime files above, restart PowerFab and confirm v1.12.
+Re-import the same ABE folder with either separate report PDFs or one merged PDF.
+Already imported or saved results are not automatically changed.
