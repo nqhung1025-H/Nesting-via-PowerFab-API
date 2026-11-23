@@ -1,4 +1,4 @@
-# Hanlon PowerFab Nesting - development snapshot v1.12
+# Nesting-via-PowerFab-API
 
 This extension is still under development. This package is the working source
 project for modifying, rebuilding and continuing the PowerFab/ABE integration.
