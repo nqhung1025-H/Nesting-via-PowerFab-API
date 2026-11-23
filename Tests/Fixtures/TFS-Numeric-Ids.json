@@ -1,0 +1,29 @@
+{
+  "source": "Actual v0.44 C# regression SaveNest request output; PowerFab responses were mocked.",
+  "logged_failures": [
+    {
+      "link_id": 10044,
+      "external_remnant_id": "ad0f244a7d3b48fa9cbe9ff360436950-R1"
+    },
+    {
+      "link_id": 10045,
+      "external_remnant_id": "b34c03fffc5c4c1abeb6ff3016312800-R1"
+    }
+  ],
+  "actual_requests": [
+    {
+      "scenario": "legacy-id-1",
+      "nest_id": "da0773238cad482697b2efdc759abc06",
+      "remnant_ids": [
+        "2237499259687777919"
+      ]
+    },
+    {
+      "scenario": "legacy-id-2",
+      "nest_id": "a63e02dfe0c24505b03bad0ffecbb8c6",
+      "remnant_ids": [
+        "3959127227313025386"
+      ]
+    }
+  ]
+}

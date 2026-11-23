@@ -1,0 +1,2244 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<FabSuiteWorkOrder xmlns="https://schema.teklapowerfab.net/xml-schema/PowerFabWorkOrder.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+  <SourceApplication>Tekla PowerFab</SourceApplication>
+
+  <SourceApplicationVersion>2026i</SourceApplicationVersion>
+
+  <FabSuiteWorkOrderVersion>1.3</FabSuiteWorkOrderVersion>
+
+  <CreationDateTime>2026-11-17 00:13:19</CreationDateTime>
+
+  <Destination>Other</Destination>
+
+  <WorkOrderID>5872</WorkOrderID>
+
+  <WorkOrderDescription>2026-11-17 00:12:19</WorkOrderDescription>
+
+  <WorkOrderParts>
+    <WorkOrderPart>
+      <PartID>823687</PartID>
+      <Quantity>4</Quantity>
+      <JobNumber>240175</JobNumber>
+      <DrawingNumber>90_FG1-1</DrawingNumber>
+      <MainMark>90_FG1-1</MainMark>
+      <PieceMark>90_PL-1154</PieceMark>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Sequence>Phase 90C</Sequence>
+      <LotNumber>Lot 150 - Frames(F)</LotNumber>
+      <Shape>PLT</Shape>
+      <Grade>250</Grade>
+      <Dimensions Metric="true">5X50</Dimensions>
+      <Length UOM="MM">50</Length>
+      <Width UOM="MM">50</Width>
+      <PlateThickness UOM="MM">5</PlateThickness>
+      <Area UOM="SQM">0.0025</Area>
+      <SquaringAmount UOM="MM">0</SquaringAmount>
+      <Finish>P2 - EXT - PAINT</Finish>
+      <Route>Plates</Route>
+    </WorkOrderPart>
+    <WorkOrderPart>
+      <PartID>823693</PartID>
+      <Quantity>8</Quantity>
+      <JobNumber>240175</JobNumber>
+      <DrawingNumber>90_FG1-10</DrawingNumber>
+      <MainMark>90_FG1-10</MainMark>
+      <PieceMark>90_PL-1154</PieceMark>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Sequence>Phase 90C</Sequence>
+      <LotNumber>Lot 150 - Frames(F)</LotNumber>
+      <Shape>PLT</Shape>
+      <Grade>250</Grade>
+      <Dimensions Metric="true">5X50</Dimensions>
+      <Length UOM="MM">50</Length>
+      <Width UOM="MM">50</Width>
+      <PlateThickness UOM="MM">5</PlateThickness>
+      <Area UOM="SQM">0.0025</Area>
+      <SquaringAmount UOM="MM">0</SquaringAmount>
+      <Finish>P2 - EXT - PAINT</Finish>
+      <Route>Plates</Route>
+    </WorkOrderPart>
+    <WorkOrderPart>
+      <PartID>823698</PartID>
+      <Quantity>16</Quantity>
+      <JobNumber>240175</JobNumber>
+      <DrawingNumber>90_FG1-11</DrawingNumber>
+      <MainMark>90_FG1-11</MainMark>
+      <PieceMark>90_PL-1154</PieceMark>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Sequence>Phase 90C</Sequence>
+      <LotNumber>Lot 150 - Frames(F)</LotNumber>
+      <Shape>PLT</Shape>
+      <Grade>250</Grade>
+      <Dimensions Metric="true">5X50</Dimensions>
+      <Length UOM="MM">50</Length>
+      <Width UOM="MM">50</Width>
+      <PlateThickness UOM="MM">5</PlateThickness>
+      <Area UOM="SQM">0.0025</Area>
+      <SquaringAmount UOM="MM">0</SquaringAmount>
+      <Finish>P2 - EXT - PAINT</Finish>
+      <Route>Plates</Route>
+    </WorkOrderPart>
+    <WorkOrderPart>
+      <PartID>823702</PartID>
+      <Quantity>8</Quantity>
+      <JobNumber>240175</JobNumber>
+      <DrawingNumber>90_FG1-12</DrawingNumber>
+      <MainMark>90_FG1-12</MainMark>
+      <PieceMark>90_PL-1154</PieceMark>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Sequence>Phase 90C</Sequence>
+      <LotNumber>Lot 150 - Frames(F)</LotNumber>
+      <Shape>PLT</Shape>
+      <Grade>250</Grade>
+      <Dimensions Metric="true">5X50</Dimensions>
+      <Length UOM="MM">50</Length>
+      <Width UOM="MM">50</Width>
+      <PlateThickness UOM="MM">5</PlateThickness>
+      <Area UOM="SQM">0.0025</Area>
+      <SquaringAmount UOM="MM">0</SquaringAmount>
+      <Finish>P2 - EXT - PAINT</Finish>
+      <Route>Plates</Route>
+    </WorkOrderPart>
+    <WorkOrderPart>
+      <PartID>823707</PartID>
+      <Quantity>8</Quantity>
+      <JobNumber>240175</JobNumber>
+      <DrawingNumber>90_FG1-13</DrawingNumber>
+      <MainMark>90_FG1-13</MainMark>
+      <PieceMark>90_PL-1154</PieceMark>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Sequence>Phase 90C</Sequence>
+      <LotNumber>Lot 150 - Frames(F)</LotNumber>
+      <Shape>PLT</Shape>
+      <Grade>250</Grade>
+      <Dimensions Metric="true">5X50</Dimensions>
+      <Length UOM="MM">50</Length>
+      <Width UOM="MM">50</Width>
+      <PlateThickness UOM="MM">5</PlateThickness>
+      <Area UOM="SQM">0.0025</Area>
+      <SquaringAmount UOM="MM">0</SquaringAmount>
+      <Finish>P2 - EXT - PAINT</Finish>
+      <Route>Plates</Route>
+    </WorkOrderPart>
+    <WorkOrderPart>
+      <PartID>823712</PartID>
+      <Quantity>8</Quantity>
+      <JobNumber>240175</JobNumber>
+      <DrawingNumber>90_FG1-14</DrawingNumber>
+      <MainMark>90_FG1-14</MainMark>
+      <PieceMark>90_PL-1154</PieceMark>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Sequence>Phase 90C</Sequence>
+      <LotNumber>Lot 150 - Frames(F)</LotNumber>
+      <Shape>PLT</Shape>
+      <Grade>250</Grade>
+      <Dimensions Metric="true">5X50</Dimensions>
+      <Length UOM="MM">50</Length>
+      <Width UOM="MM">50</Width>
+      <PlateThickness UOM="MM">5</PlateThickness>
+      <Area UOM="SQM">0.0025</Area>
+      <SquaringAmount UOM="MM">0</SquaringAmount>
+      <Finish>P2 - EXT - PAINT</Finish>
+      <Route>Plates</Route>
+    </WorkOrderPart>
+    <WorkOrderPart>
+      <PartID>823717</PartID>
+      <Quantity>8</Quantity>
+      <JobNumber>240175</JobNumber>
+      <DrawingNumber>90_FG1-15</DrawingNumber>
+      <MainMark>90_FG1-15</MainMark>
+      <PieceMark>90_PL-1154</PieceMark>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Sequence>Phase 90C</Sequence>
+      <LotNumber>Lot 150 - Frames(F)</LotNumber>
+      <Shape>PLT</Shape>
+      <Grade>250</Grade>
+      <Dimensions Metric="true">5X50</Dimensions>
+      <Length UOM="MM">50</Length>
+      <Width UOM="MM">50</Width>
+      <PlateThickness UOM="MM">5</PlateThickness>
+      <Area UOM="SQM">0.0025</Area>
+      <SquaringAmount UOM="MM">0</SquaringAmount>
+      <Finish>P2 - EXT - PAINT</Finish>
+      <Route>Plates</Route>
+    </WorkOrderPart>
+    <WorkOrderPart>
+      <PartID>823722</PartID>
+      <Quantity>8</Quantity>
+      <JobNumber>240175</JobNumber>
+      <DrawingNumber>90_FG1-16</DrawingNumber>
+      <MainMark>90_FG1-16</MainMark>
+      <PieceMark>90_PL-1154</PieceMark>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Sequence>Phase 90C</Sequence>
+      <LotNumber>Lot 150 - Frames(F)</LotNumber>
+      <Shape>PLT</Shape>
+      <Grade>250</Grade>
+      <Dimensions Metric="true">5X50</Dimensions>
+      <Length UOM="MM">50</Length>
+      <Width UOM="MM">50</Width>
+      <PlateThickness UOM="MM">5</PlateThickness>
+      <Area UOM="SQM">0.0025</Area>
+      <SquaringAmount UOM="MM">0</SquaringAmount>
+      <Finish>P2 - EXT - PAINT</Finish>
+      <Route>Plates</Route>
+    </WorkOrderPart>
+    <WorkOrderPart>
+      <PartID>823727</PartID>
+      <Quantity>4</Quantity>
+      <JobNumber>240175</JobNumber>
+      <DrawingNumber>90_FG1-17</DrawingNumber>
+      <MainMark>90_FG1-17</MainMark>
+      <PieceMark>90_PL-1154</PieceMark>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Sequence>Phase 90C</Sequence>
+      <LotNumber>Lot 150 - Frames(F)</LotNumber>
+      <Shape>PLT</Shape>
+      <Grade>250</Grade>
+      <Dimensions Metric="true">5X50</Dimensions>
+      <Length UOM="MM">50</Length>
+      <Width UOM="MM">50</Width>
+      <PlateThickness UOM="MM">5</PlateThickness>
+      <Area UOM="SQM">0.0025</Area>
+      <SquaringAmount UOM="MM">0</SquaringAmount>
+      <Finish>P2 - EXT - PAINT</Finish>
+      <Route>Plates</Route>
+    </WorkOrderPart>
+    <WorkOrderPart>
+      <PartID>823733</PartID>
+      <Quantity>8</Quantity>
+      <JobNumber>240175</JobNumber>
+      <DrawingNumber>90_FG1-18</DrawingNumber>
+      <MainMark>90_FG1-18</MainMark>
+      <PieceMark>90_PL-1154</PieceMark>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Sequence>Phase 90C</Sequence>
+      <LotNumber>Lot 150 - Frames(F)</LotNumber>
+      <Shape>PLT</Shape>
+      <Grade>250</Grade>
+      <Dimensions Metric="true">5X50</Dimensions>
+      <Length UOM="MM">50</Length>
+      <Width UOM="MM">50</Width>
+      <PlateThickness UOM="MM">5</PlateThickness>
+      <Area UOM="SQM">0.0025</Area>
+      <SquaringAmount UOM="MM">0</SquaringAmount>
+      <Finish>P2 - EXT - PAINT</Finish>
+      <Route>Plates</Route>
+    </WorkOrderPart>
+    <WorkOrderPart>
+      <PartID>823737</PartID>
+      <Quantity>8</Quantity>
+      <JobNumber>240175</JobNumber>
+      <DrawingNumber>90_FG1-19</DrawingNumber>
+      <MainMark>90_FG1-19</MainMark>
+      <PieceMark>90_PL-1154</PieceMark>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Sequence>Phase 90C</Sequence>
+      <LotNumber>Lot 150 - Frames(F)</LotNumber>
+      <Shape>PLT</Shape>
+      <Grade>250</Grade>
+      <Dimensions Metric="true">5X50</Dimensions>
+      <Length UOM="MM">50</Length>
+      <Width UOM="MM">50</Width>
+      <PlateThickness UOM="MM">5</PlateThickness>
+      <Area UOM="SQM">0.0025</Area>
+      <SquaringAmount UOM="MM">0</SquaringAmount>
+      <Finish>P2 - EXT - PAINT</Finish>
+      <Route>Plates</Route>
+    </WorkOrderPart>
+    <WorkOrderPart>
+      <PartID>823743</PartID>
+      <Quantity>8</Quantity>
+      <JobNumber>240175</JobNumber>
+      <DrawingNumber>90_FG1-2</DrawingNumber>
+      <MainMark>90_FG1-2</MainMark>
+      <PieceMark>90_PL-1154</PieceMark>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Sequence>Phase 90C</Sequence>
+      <LotNumber>Lot 150 - Frames(F)</LotNumber>
+      <Shape>PLT</Shape>
+      <Grade>250</Grade>
+      <Dimensions Metric="true">5X50</Dimensions>
+      <Length UOM="MM">50</Length>
+      <Width UOM="MM">50</Width>
+      <PlateThickness UOM="MM">5</PlateThickness>
+      <Area UOM="SQM">0.0025</Area>
+      <SquaringAmount UOM="MM">0</SquaringAmount>
+      <Finish>P2 - EXT - PAINT</Finish>
+      <Route>Plates</Route>
+    </WorkOrderPart>
+    <WorkOrderPart>
+      <PartID>823749</PartID>
+      <Quantity>8</Quantity>
+      <JobNumber>240175</JobNumber>
+      <DrawingNumber>90_FG1-20</DrawingNumber>
+      <MainMark>90_FG1-20</MainMark>
+      <PieceMark>90_PL-1154</PieceMark>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Sequence>Phase 90C</Sequence>
+      <LotNumber>Lot 150 - Frames(F)</LotNumber>
+      <Shape>PLT</Shape>
+      <Grade>250</Grade>
+      <Dimensions Metric="true">5X50</Dimensions>
+      <Length UOM="MM">50</Length>
+      <Width UOM="MM">50</Width>
+      <PlateThickness UOM="MM">5</PlateThickness>
+      <Area UOM="SQM">0.0025</Area>
+      <SquaringAmount UOM="MM">0</SquaringAmount>
+      <Finish>P2 - EXT - PAINT</Finish>
+      <Route>Plates</Route>
+    </WorkOrderPart>
+    <WorkOrderPart>
+      <PartID>823753</PartID>
+      <Quantity>4</Quantity>
+      <JobNumber>240175</JobNumber>
+      <DrawingNumber>90_FG1-21</DrawingNumber>
+      <MainMark>90_FG1-21</MainMark>
+      <PieceMark>90_PL-1154</PieceMark>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Sequence>Phase 90C</Sequence>
+      <LotNumber>Lot 150 - Frames(F)</LotNumber>
+      <Shape>PLT</Shape>
+      <Grade>250</Grade>
+      <Dimensions Metric="true">5X50</Dimensions>
+      <Length UOM="MM">50</Length>
+      <Width UOM="MM">50</Width>
+      <PlateThickness UOM="MM">5</PlateThickness>
+      <Area UOM="SQM">0.0025</Area>
+      <SquaringAmount UOM="MM">0</SquaringAmount>
+      <Finish>P2 - EXT - PAINT</Finish>
+      <Route>Plates</Route>
+    </WorkOrderPart>
+    <WorkOrderPart>
+      <PartID>823759</PartID>
+      <Quantity>32</Quantity>
+      <JobNumber>240175</JobNumber>
+      <DrawingNumber>90_FG1-22</DrawingNumber>
+      <MainMark>90_FG1-22</MainMark>
+      <PieceMark>90_PL-1154</PieceMark>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Sequence>Phase 90C</Sequence>
+      <LotNumber>Lot 150 - Frames(F)</LotNumber>
+      <Shape>PLT</Shape>
+      <Grade>250</Grade>
+      <Dimensions Metric="true">5X50</Dimensions>
+      <Length UOM="MM">50</Length>
+      <Width UOM="MM">50</Width>
+      <PlateThickness UOM="MM">5</PlateThickness>
+      <Area UOM="SQM">0.0025</Area>
+      <SquaringAmount UOM="MM">0</SquaringAmount>
+      <Finish>P2 - EXT - PAINT</Finish>
+      <Route>Plates</Route>
+    </WorkOrderPart>
+    <WorkOrderPart>
+      <PartID>823765</PartID>
+      <Quantity>8</Quantity>
+      <JobNumber>240175</JobNumber>
+      <DrawingNumber>90_FG1-23</DrawingNumber>
+      <MainMark>90_FG1-23</MainMark>
+      <PieceMark>90_PL-1154</PieceMark>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Sequence>Phase 90C</Sequence>
+      <LotNumber>Lot 150 - Frames(F)</LotNumber>
+      <Shape>PLT</Shape>
+      <Grade>250</Grade>
+      <Dimensions Metric="true">5X50</Dimensions>
+      <Length UOM="MM">50</Length>
+      <Width UOM="MM">50</Width>
+      <PlateThickness UOM="MM">5</PlateThickness>
+      <Area UOM="SQM">0.0025</Area>
+      <SquaringAmount UOM="MM">0</SquaringAmount>
+      <Finish>P2 - EXT - PAINT</Finish>
+      <Route>Plates</Route>
+    </WorkOrderPart>
+    <WorkOrderPart>
+      <PartID>823769</PartID>
+      <Quantity>8</Quantity>
+      <JobNumber>240175</JobNumber>
+      <DrawingNumber>90_FG1-24</DrawingNumber>
+      <MainMark>90_FG1-24</MainMark>
+      <PieceMark>90_PL-1154</PieceMark>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Sequence>Phase 90C</Sequence>
+      <LotNumber>Lot 150 - Frames(F)</LotNumber>
+      <Shape>PLT</Shape>
+      <Grade>250</Grade>
+      <Dimensions Metric="true">5X50</Dimensions>
+      <Length UOM="MM">50</Length>
+      <Width UOM="MM">50</Width>
+      <PlateThickness UOM="MM">5</PlateThickness>
+      <Area UOM="SQM">0.0025</Area>
+      <SquaringAmount UOM="MM">0</SquaringAmount>
+      <Finish>P2 - EXT - PAINT</Finish>
+      <Route>Plates</Route>
+    </WorkOrderPart>
+    <WorkOrderPart>
+      <PartID>823773</PartID>
+      <Quantity>8</Quantity>
+      <JobNumber>240175</JobNumber>
+      <DrawingNumber>90_FG1-26</DrawingNumber>
+      <MainMark>90_FG1-26</MainMark>
+      <PieceMark>90_PL-1154</PieceMark>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Sequence>Phase 90C</Sequence>
+      <LotNumber>Lot 150 - Frames(F)</LotNumber>
+      <Shape>PLT</Shape>
+      <Grade>250</Grade>
+      <Dimensions Metric="true">5X50</Dimensions>
+      <Length UOM="MM">50</Length>
+      <Width UOM="MM">50</Width>
+      <PlateThickness UOM="MM">5</PlateThickness>
+      <Area UOM="SQM">0.0025</Area>
+      <SquaringAmount UOM="MM">0</SquaringAmount>
+      <Finish>P2 - EXT - PAINT</Finish>
+      <Route>Plates</Route>
+    </WorkOrderPart>
+    <WorkOrderPart>
+      <PartID>823777</PartID>
+      <Quantity>8</Quantity>
+      <JobNumber>240175</JobNumber>
+      <DrawingNumber>90_FG1-27</DrawingNumber>
+      <MainMark>90_FG1-27</MainMark>
+      <PieceMark>90_PL-1154</PieceMark>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Sequence>Phase 90C</Sequence>
+      <LotNumber>Lot 150 - Frames(F)</LotNumber>
+      <Shape>PLT</Shape>
+      <Grade>250</Grade>
+      <Dimensions Metric="true">5X50</Dimensions>
+      <Length UOM="MM">50</Length>
+      <Width UOM="MM">50</Width>
+      <PlateThickness UOM="MM">5</PlateThickness>
+      <Area UOM="SQM">0.0025</Area>
+      <SquaringAmount UOM="MM">0</SquaringAmount>
+      <Finish>P2 - EXT - PAINT</Finish>
+      <Route>Plates</Route>
+    </WorkOrderPart>
+    <WorkOrderPart>
+      <PartID>823782</PartID>
+      <Quantity>8</Quantity>
+      <JobNumber>240175</JobNumber>
+      <DrawingNumber>90_FG1-28</DrawingNumber>
+      <MainMark>90_FG1-28</MainMark>
+      <PieceMark>90_PL-1154</PieceMark>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Sequence>Phase 90C</Sequence>
+      <LotNumber>Lot 150 - Frames(F)</LotNumber>
+      <Shape>PLT</Shape>
+      <Grade>250</Grade>
+      <Dimensions Metric="true">5X50</Dimensions>
+      <Length UOM="MM">50</Length>
+      <Width UOM="MM">50</Width>
+      <PlateThickness UOM="MM">5</PlateThickness>
+      <Area UOM="SQM">0.0025</Area>
+      <SquaringAmount UOM="MM">0</SquaringAmount>
+      <Finish>P2 - EXT - PAINT</Finish>
+      <Route>Plates</Route>
+    </WorkOrderPart>
+    <WorkOrderPart>
+      <PartID>823787</PartID>
+      <Quantity>8</Quantity>
+      <JobNumber>240175</JobNumber>
+      <DrawingNumber>90_FG1-29</DrawingNumber>
+      <MainMark>90_FG1-29</MainMark>
+      <PieceMark>90_PL-1154</PieceMark>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Sequence>Phase 90C</Sequence>
+      <LotNumber>Lot 150 - Frames(F)</LotNumber>
+      <Shape>PLT</Shape>
+      <Grade>250</Grade>
+      <Dimensions Metric="true">5X50</Dimensions>
+      <Length UOM="MM">50</Length>
+      <Width UOM="MM">50</Width>
+      <PlateThickness UOM="MM">5</PlateThickness>
+      <Area UOM="SQM">0.0025</Area>
+      <SquaringAmount UOM="MM">0</SquaringAmount>
+      <Finish>P2 - EXT - PAINT</Finish>
+      <Route>Plates</Route>
+    </WorkOrderPart>
+    <WorkOrderPart>
+      <PartID>823792</PartID>
+      <Quantity>8</Quantity>
+      <JobNumber>240175</JobNumber>
+      <DrawingNumber>90_FG1-3</DrawingNumber>
+      <MainMark>90_FG1-3</MainMark>
+      <PieceMark>90_PL-1154</PieceMark>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Sequence>Phase 90C</Sequence>
+      <LotNumber>Lot 150 - Frames(F)</LotNumber>
+      <Shape>PLT</Shape>
+      <Grade>250</Grade>
+      <Dimensions Metric="true">5X50</Dimensions>
+      <Length UOM="MM">50</Length>
+      <Width UOM="MM">50</Width>
+      <PlateThickness UOM="MM">5</PlateThickness>
+      <Area UOM="SQM">0.0025</Area>
+      <SquaringAmount UOM="MM">0</SquaringAmount>
+      <Finish>P2 - EXT - PAINT</Finish>
+      <Route>Plates</Route>
+    </WorkOrderPart>
+    <WorkOrderPart>
+      <PartID>823797</PartID>
+      <Quantity>16</Quantity>
+      <JobNumber>240175</JobNumber>
+      <DrawingNumber>90_FG1-30</DrawingNumber>
+      <MainMark>90_FG1-30</MainMark>
+      <PieceMark>90_PL-1154</PieceMark>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Sequence>Phase 90C</Sequence>
+      <LotNumber>Lot 150 - Frames(F)</LotNumber>
+      <Shape>PLT</Shape>
+      <Grade>250</Grade>
+      <Dimensions Metric="true">5X50</Dimensions>
+      <Length UOM="MM">50</Length>
+      <Width UOM="MM">50</Width>
+      <PlateThickness UOM="MM">5</PlateThickness>
+      <Area UOM="SQM">0.0025</Area>
+      <SquaringAmount UOM="MM">0</SquaringAmount>
+      <Finish>P2 - EXT - PAINT</Finish>
+      <Route>Plates</Route>
+    </WorkOrderPart>
+    <WorkOrderPart>
+      <PartID>824280</PartID>
+      <Quantity>8</Quantity>
+      <JobNumber>240175</JobNumber>
+      <DrawingNumber>90_FG1-31</DrawingNumber>
+      <MainMark>90_FG1-31</MainMark>
+      <PieceMark>90_PL-1154</PieceMark>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Sequence>Phase 90C</Sequence>
+      <LotNumber>Lot 150 - Frames(F)</LotNumber>
+      <Shape>PLT</Shape>
+      <Grade>250</Grade>
+      <Dimensions Metric="true">5X50</Dimensions>
+      <Length UOM="MM">50</Length>
+      <Width UOM="MM">50</Width>
+      <PlateThickness UOM="MM">5</PlateThickness>
+      <Area UOM="SQM">0.0025</Area>
+      <SquaringAmount UOM="MM">0</SquaringAmount>
+      <Finish>P2 - EXT - PAINT</Finish>
+      <Route>Plates</Route>
+    </WorkOrderPart>
+    <WorkOrderPart>
+      <PartID>824285</PartID>
+      <Quantity>8</Quantity>
+      <JobNumber>240175</JobNumber>
+      <DrawingNumber>90_FG1-32</DrawingNumber>
+      <MainMark>90_FG1-32</MainMark>
+      <PieceMark>90_PL-1154</PieceMark>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Sequence>Phase 90C</Sequence>
+      <LotNumber>Lot 150 - Frames(F)</LotNumber>
+      <Shape>PLT</Shape>
+      <Grade>250</Grade>
+      <Dimensions Metric="true">5X50</Dimensions>
+      <Length UOM="MM">50</Length>
+      <Width UOM="MM">50</Width>
+      <PlateThickness UOM="MM">5</PlateThickness>
+      <Area UOM="SQM">0.0025</Area>
+      <SquaringAmount UOM="MM">0</SquaringAmount>
+      <Finish>P2 - EXT - PAINT</Finish>
+      <Route>Plates</Route>
+    </WorkOrderPart>
+    <WorkOrderPart>
+      <PartID>824289</PartID>
+      <Quantity>8</Quantity>
+      <JobNumber>240175</JobNumber>
+      <DrawingNumber>90_FG1-33</DrawingNumber>
+      <MainMark>90_FG1-33</MainMark>
+      <PieceMark>90_PL-1154</PieceMark>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Sequence>Phase 90C</Sequence>
+      <LotNumber>Lot 150 - Frames(F)</LotNumber>
+      <Shape>PLT</Shape>
+      <Grade>250</Grade>
+      <Dimensions Metric="true">5X50</Dimensions>
+      <Length UOM="MM">50</Length>
+      <Width UOM="MM">50</Width>
+      <PlateThickness UOM="MM">5</PlateThickness>
+      <Area UOM="SQM">0.0025</Area>
+      <SquaringAmount UOM="MM">0</SquaringAmount>
+      <Finish>P2 - EXT - PAINT</Finish>
+      <Route>Plates</Route>
+    </WorkOrderPart>
+    <WorkOrderPart>
+      <PartID>823802</PartID>
+      <Quantity>8</Quantity>
+      <JobNumber>240175</JobNumber>
+      <DrawingNumber>90_FG1-4</DrawingNumber>
+      <MainMark>90_FG1-4</MainMark>
+      <PieceMark>90_PL-1154</PieceMark>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Sequence>Phase 90C</Sequence>
+      <LotNumber>Lot 150 - Frames(F)</LotNumber>
+      <Shape>PLT</Shape>
+      <Grade>250</Grade>
+      <Dimensions Metric="true">5X50</Dimensions>
+      <Length UOM="MM">50</Length>
+      <Width UOM="MM">50</Width>
+      <PlateThickness UOM="MM">5</PlateThickness>
+      <Area UOM="SQM">0.0025</Area>
+      <SquaringAmount UOM="MM">0</SquaringAmount>
+      <Finish>P2 - EXT - PAINT</Finish>
+      <Route>Plates</Route>
+    </WorkOrderPart>
+    <WorkOrderPart>
+      <PartID>823806</PartID>
+      <Quantity>24</Quantity>
+      <JobNumber>240175</JobNumber>
+      <DrawingNumber>90_FG1-5</DrawingNumber>
+      <MainMark>90_FG1-5</MainMark>
+      <PieceMark>90_PL-1154</PieceMark>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Sequence>Phase 90C</Sequence>
+      <LotNumber>Lot 150 - Frames(F)</LotNumber>
+      <Shape>PLT</Shape>
+      <Grade>250</Grade>
+      <Dimensions Metric="true">5X50</Dimensions>
+      <Length UOM="MM">50</Length>
+      <Width UOM="MM">50</Width>
+      <PlateThickness UOM="MM">5</PlateThickness>
+      <Area UOM="SQM">0.0025</Area>
+      <SquaringAmount UOM="MM">0</SquaringAmount>
+      <Finish>P2 - EXT - PAINT</Finish>
+      <Route>Plates</Route>
+    </WorkOrderPart>
+    <WorkOrderPart>
+      <PartID>823811</PartID>
+      <Quantity>8</Quantity>
+      <JobNumber>240175</JobNumber>
+      <DrawingNumber>90_FG1-6</DrawingNumber>
+      <MainMark>90_FG1-6</MainMark>
+      <PieceMark>90_PL-1154</PieceMark>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Sequence>Phase 90C</Sequence>
+      <LotNumber>Lot 150 - Frames(F)</LotNumber>
+      <Shape>PLT</Shape>
+      <Grade>250</Grade>
+      <Dimensions Metric="true">5X50</Dimensions>
+      <Length UOM="MM">50</Length>
+      <Width UOM="MM">50</Width>
+      <PlateThickness UOM="MM">5</PlateThickness>
+      <Area UOM="SQM">0.0025</Area>
+      <SquaringAmount UOM="MM">0</SquaringAmount>
+      <Finish>P2 - EXT - PAINT</Finish>
+      <Route>Plates</Route>
+    </WorkOrderPart>
+    <WorkOrderPart>
+      <PartID>823816</PartID>
+      <Quantity>8</Quantity>
+      <JobNumber>240175</JobNumber>
+      <DrawingNumber>90_FG1-7</DrawingNumber>
+      <MainMark>90_FG1-7</MainMark>
+      <PieceMark>90_PL-1154</PieceMark>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Sequence>Phase 90C</Sequence>
+      <LotNumber>Lot 150 - Frames(F)</LotNumber>
+      <Shape>PLT</Shape>
+      <Grade>250</Grade>
+      <Dimensions Metric="true">5X50</Dimensions>
+      <Length UOM="MM">50</Length>
+      <Width UOM="MM">50</Width>
+      <PlateThickness UOM="MM">5</PlateThickness>
+      <Area UOM="SQM">0.0025</Area>
+      <SquaringAmount UOM="MM">0</SquaringAmount>
+      <Finish>P2 - EXT - PAINT</Finish>
+      <Route>Plates</Route>
+    </WorkOrderPart>
+    <WorkOrderPart>
+      <PartID>823821</PartID>
+      <Quantity>24</Quantity>
+      <JobNumber>240175</JobNumber>
+      <DrawingNumber>90_FG1-8</DrawingNumber>
+      <MainMark>90_FG1-8</MainMark>
+      <PieceMark>90_PL-1154</PieceMark>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Sequence>Phase 90C</Sequence>
+      <LotNumber>Lot 150 - Frames(F)</LotNumber>
+      <Shape>PLT</Shape>
+      <Grade>250</Grade>
+      <Dimensions Metric="true">5X50</Dimensions>
+      <Length UOM="MM">50</Length>
+      <Width UOM="MM">50</Width>
+      <PlateThickness UOM="MM">5</PlateThickness>
+      <Area UOM="SQM">0.0025</Area>
+      <SquaringAmount UOM="MM">0</SquaringAmount>
+      <Finish>P2 - EXT - PAINT</Finish>
+      <Route>Plates</Route>
+    </WorkOrderPart>
+    <WorkOrderPart>
+      <PartID>823826</PartID>
+      <Quantity>8</Quantity>
+      <JobNumber>240175</JobNumber>
+      <DrawingNumber>90_FG1-9</DrawingNumber>
+      <MainMark>90_FG1-9</MainMark>
+      <PieceMark>90_PL-1154</PieceMark>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Sequence>Phase 90C</Sequence>
+      <LotNumber>Lot 150 - Frames(F)</LotNumber>
+      <Shape>PLT</Shape>
+      <Grade>250</Grade>
+      <Dimensions Metric="true">5X50</Dimensions>
+      <Length UOM="MM">50</Length>
+      <Width UOM="MM">50</Width>
+      <PlateThickness UOM="MM">5</PlateThickness>
+      <Area UOM="SQM">0.0025</Area>
+      <SquaringAmount UOM="MM">0</SquaringAmount>
+      <Finish>P2 - EXT - PAINT</Finish>
+      <Route>Plates</Route>
+    </WorkOrderPart>
+    <WorkOrderPart>
+      <PartID>823688</PartID>
+      <Quantity>4</Quantity>
+      <JobNumber>240175</JobNumber>
+      <DrawingNumber>90_FG1-1</DrawingNumber>
+      <MainMark>90_FG1-1</MainMark>
+      <PieceMark>90_PL-1155</PieceMark>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Sequence>Phase 90C</Sequence>
+      <LotNumber>Lot 150 - Frames(F)</LotNumber>
+      <Shape>PLT</Shape>
+      <Grade>250</Grade>
+      <Dimensions Metric="true">5X50</Dimensions>
+      <Length UOM="MM">20</Length>
+      <Width UOM="MM">50</Width>
+      <PlateThickness UOM="MM">5</PlateThickness>
+      <Area UOM="SQM">0.001</Area>
+      <SquaringAmount UOM="MM">0</SquaringAmount>
+      <Finish>P2 - EXT - PAINT</Finish>
+      <Route>Plates</Route>
+    </WorkOrderPart>
+    <WorkOrderPart>
+      <PartID>823728</PartID>
+      <Quantity>4</Quantity>
+      <JobNumber>240175</JobNumber>
+      <DrawingNumber>90_FG1-17</DrawingNumber>
+      <MainMark>90_FG1-17</MainMark>
+      <PieceMark>90_PL-1155</PieceMark>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Sequence>Phase 90C</Sequence>
+      <LotNumber>Lot 150 - Frames(F)</LotNumber>
+      <Shape>PLT</Shape>
+      <Grade>250</Grade>
+      <Dimensions Metric="true">5X50</Dimensions>
+      <Length UOM="MM">20</Length>
+      <Width UOM="MM">50</Width>
+      <PlateThickness UOM="MM">5</PlateThickness>
+      <Area UOM="SQM">0.001</Area>
+      <SquaringAmount UOM="MM">0</SquaringAmount>
+      <Finish>P2 - EXT - PAINT</Finish>
+      <Route>Plates</Route>
+    </WorkOrderPart>
+    <WorkOrderPart>
+      <PartID>823754</PartID>
+      <Quantity>2</Quantity>
+      <JobNumber>240175</JobNumber>
+      <DrawingNumber>90_FG1-21</DrawingNumber>
+      <MainMark>90_FG1-21</MainMark>
+      <PieceMark>90_PL-1155</PieceMark>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Sequence>Phase 90C</Sequence>
+      <LotNumber>Lot 150 - Frames(F)</LotNumber>
+      <Shape>PLT</Shape>
+      <Grade>250</Grade>
+      <Dimensions Metric="true">5X50</Dimensions>
+      <Length UOM="MM">20</Length>
+      <Width UOM="MM">50</Width>
+      <PlateThickness UOM="MM">5</PlateThickness>
+      <Area UOM="SQM">0.001</Area>
+      <SquaringAmount UOM="MM">0</SquaringAmount>
+      <Finish>P2 - EXT - PAINT</Finish>
+      <Route>Plates</Route>
+    </WorkOrderPart>
+    <WorkOrderPart>
+      <PartID>823755</PartID>
+      <Quantity>2</Quantity>
+      <JobNumber>240175</JobNumber>
+      <DrawingNumber>90_FG1-21</DrawingNumber>
+      <MainMark>90_FG1-21</MainMark>
+      <PieceMark>90_PL-1344</PieceMark>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Sequence>Phase 90C</Sequence>
+      <LotNumber>Lot 150 - Frames(F)</LotNumber>
+      <Shape>PLT</Shape>
+      <Grade>250</Grade>
+      <Dimensions Metric="true">5X50</Dimensions>
+      <Length UOM="MM">20</Length>
+      <Width UOM="MM">50</Width>
+      <PlateThickness UOM="MM">5</PlateThickness>
+      <Area UOM="SQM">0.001</Area>
+      <SquaringAmount UOM="MM">0</SquaringAmount>
+      <Finish>P2 - EXT - PAINT</Finish>
+      <Route>Plates</Route>
+    </WorkOrderPart>
+    <WorkOrderPart>
+      <PartID>823661</PartID>
+      <Quantity>1</Quantity>
+      <JobNumber>240175</JobNumber>
+      <DrawingNumber>90_SCP1-1</DrawingNumber>
+      <MainMark>90_SCP1-1</MainMark>
+      <PieceMark>90_PL-501</PieceMark>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Sequence>Phase 90C</Sequence>
+      <LotNumber>Lot 151 - Columns(F)</LotNumber>
+      <Shape>PLT</Shape>
+      <Grade>250</Grade>
+      <Dimensions Metric="true">6X69</Dimensions>
+      <Length UOM="MM">119</Length>
+      <Width UOM="MM">69</Width>
+      <PlateThickness UOM="MM">6</PlateThickness>
+      <Area UOM="SQM">0.008211</Area>
+      <SquaringAmount UOM="MM">0</SquaringAmount>
+      <Finish>P2 - EXT - PAINT</Finish>
+      <Route>Plates</Route>
+    </WorkOrderPart>
+    <WorkOrderPart>
+      <PartID>823664</PartID>
+      <Quantity>1</Quantity>
+      <JobNumber>240175</JobNumber>
+      <DrawingNumber>90_SCP1-16</DrawingNumber>
+      <MainMark>90_SCP1-16</MainMark>
+      <PieceMark>90_PL-501</PieceMark>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Sequence>Phase 90C</Sequence>
+      <LotNumber>Lot 151 - Columns(F)</LotNumber>
+      <Shape>PLT</Shape>
+      <Grade>250</Grade>
+      <Dimensions Metric="true">6X69</Dimensions>
+      <Length UOM="MM">119</Length>
+      <Width UOM="MM">69</Width>
+      <PlateThickness UOM="MM">6</PlateThickness>
+      <Area UOM="SQM">0.008211</Area>
+      <SquaringAmount UOM="MM">0</SquaringAmount>
+      <Finish>P2 - EXT - PAINT</Finish>
+      <Route>Plates</Route>
+    </WorkOrderPart>
+    <WorkOrderPart>
+      <PartID>823667</PartID>
+      <Quantity>32</Quantity>
+      <JobNumber>240175</JobNumber>
+      <DrawingNumber>90_SCP1-2</DrawingNumber>
+      <MainMark>90_SCP1-2</MainMark>
+      <PieceMark>90_PL-501</PieceMark>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Sequence>Phase 90C</Sequence>
+      <LotNumber>Lot 151 - Columns(F)</LotNumber>
+      <Shape>PLT</Shape>
+      <Grade>250</Grade>
+      <Dimensions Metric="true">6X69</Dimensions>
+      <Length UOM="MM">119</Length>
+      <Width UOM="MM">69</Width>
+      <PlateThickness UOM="MM">6</PlateThickness>
+      <Area UOM="SQM">0.008211</Area>
+      <SquaringAmount UOM="MM">0</SquaringAmount>
+      <Finish>P2 - EXT - PAINT</Finish>
+      <Route>Plates</Route>
+    </WorkOrderPart>
+    <WorkOrderPart>
+      <PartID>823670</PartID>
+      <Quantity>4</Quantity>
+      <JobNumber>240175</JobNumber>
+      <DrawingNumber>90_SCP1-3</DrawingNumber>
+      <MainMark>90_SCP1-3</MainMark>
+      <PieceMark>90_PL-501</PieceMark>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Sequence>Phase 90C</Sequence>
+      <LotNumber>Lot 151 - Columns(F)</LotNumber>
+      <Shape>PLT</Shape>
+      <Grade>250</Grade>
+      <Dimensions Metric="true">6X69</Dimensions>
+      <Length UOM="MM">119</Length>
+      <Width UOM="MM">69</Width>
+      <PlateThickness UOM="MM">6</PlateThickness>
+      <Area UOM="SQM">0.008211</Area>
+      <SquaringAmount UOM="MM">0</SquaringAmount>
+      <Finish>P2 - EXT - PAINT</Finish>
+      <Route>Plates</Route>
+    </WorkOrderPart>
+    <WorkOrderPart>
+      <PartID>823673</PartID>
+      <Quantity>1</Quantity>
+      <JobNumber>240175</JobNumber>
+      <DrawingNumber>90_SCP1-4</DrawingNumber>
+      <MainMark>90_SCP1-4</MainMark>
+      <PieceMark>90_PL-501</PieceMark>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Sequence>Phase 90C</Sequence>
+      <LotNumber>Lot 151 - Columns(F)</LotNumber>
+      <Shape>PLT</Shape>
+      <Grade>250</Grade>
+      <Dimensions Metric="true">6X69</Dimensions>
+      <Length UOM="MM">119</Length>
+      <Width UOM="MM">69</Width>
+      <PlateThickness UOM="MM">6</PlateThickness>
+      <Area UOM="SQM">0.008211</Area>
+      <SquaringAmount UOM="MM">0</SquaringAmount>
+      <Finish>P2 - EXT - PAINT</Finish>
+      <Route>Plates</Route>
+    </WorkOrderPart>
+    <WorkOrderPart>
+      <PartID>823676</PartID>
+      <Quantity>1</Quantity>
+      <JobNumber>240175</JobNumber>
+      <DrawingNumber>90_SCP1-5</DrawingNumber>
+      <MainMark>90_SCP1-5</MainMark>
+      <PieceMark>90_PL-501</PieceMark>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Sequence>Phase 90C</Sequence>
+      <LotNumber>Lot 151 - Columns(F)</LotNumber>
+      <Shape>PLT</Shape>
+      <Grade>250</Grade>
+      <Dimensions Metric="true">6X69</Dimensions>
+      <Length UOM="MM">119</Length>
+      <Width UOM="MM">69</Width>
+      <PlateThickness UOM="MM">6</PlateThickness>
+      <Area UOM="SQM">0.008211</Area>
+      <SquaringAmount UOM="MM">0</SquaringAmount>
+      <Finish>P2 - EXT - PAINT</Finish>
+      <Route>Plates</Route>
+    </WorkOrderPart>
+    <WorkOrderPart>
+      <PartID>823679</PartID>
+      <Quantity>1</Quantity>
+      <JobNumber>240175</JobNumber>
+      <DrawingNumber>90_SCP1-6</DrawingNumber>
+      <MainMark>90_SCP1-6</MainMark>
+      <PieceMark>90_PL-501</PieceMark>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Sequence>Phase 90C</Sequence>
+      <LotNumber>Lot 151 - Columns(F)</LotNumber>
+      <Shape>PLT</Shape>
+      <Grade>250</Grade>
+      <Dimensions Metric="true">6X69</Dimensions>
+      <Length UOM="MM">119</Length>
+      <Width UOM="MM">69</Width>
+      <PlateThickness UOM="MM">6</PlateThickness>
+      <Area UOM="SQM">0.008211</Area>
+      <SquaringAmount UOM="MM">0</SquaringAmount>
+      <Finish>P2 - EXT - PAINT</Finish>
+      <Route>Plates</Route>
+    </WorkOrderPart>
+    <WorkOrderPart>
+      <PartID>823682</PartID>
+      <Quantity>2</Quantity>
+      <JobNumber>240175</JobNumber>
+      <DrawingNumber>90_SCP1-7</DrawingNumber>
+      <MainMark>90_SCP1-7</MainMark>
+      <PieceMark>90_PL-501</PieceMark>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Sequence>Phase 90C</Sequence>
+      <LotNumber>Lot 151 - Columns(F)</LotNumber>
+      <Shape>PLT</Shape>
+      <Grade>250</Grade>
+      <Dimensions Metric="true">6X69</Dimensions>
+      <Length UOM="MM">119</Length>
+      <Width UOM="MM">69</Width>
+      <PlateThickness UOM="MM">6</PlateThickness>
+      <Area UOM="SQM">0.008211</Area>
+      <SquaringAmount UOM="MM">0</SquaringAmount>
+      <Finish>P2 - EXT - PAINT</Finish>
+      <Route>Plates</Route>
+    </WorkOrderPart>
+    <WorkOrderPart>
+      <PartID>823668</PartID>
+      <Quantity>32</Quantity>
+      <JobNumber>240175</JobNumber>
+      <DrawingNumber>90_SCP1-2</DrawingNumber>
+      <MainMark>90_SCP1-2</MainMark>
+      <PieceMark>90_PL-1156</PieceMark>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Sequence>Phase 90C</Sequence>
+      <LotNumber>Lot 151 - Columns(F)</LotNumber>
+      <Shape>PLT</Shape>
+      <Grade>250</Grade>
+      <Dimensions Metric="true">12X200</Dimensions>
+      <Length UOM="MM">200</Length>
+      <Width UOM="MM">200</Width>
+      <PlateThickness UOM="MM">12</PlateThickness>
+      <Area UOM="SQM">0.04</Area>
+      <SquaringAmount UOM="MM">0</SquaringAmount>
+      <Finish>P2 - EXT - PAINT</Finish>
+      <Route>Plates</Route>
+    </WorkOrderPart>
+    <WorkOrderPart>
+      <PartID>823665</PartID>
+      <Quantity>1</Quantity>
+      <JobNumber>240175</JobNumber>
+      <DrawingNumber>90_SCP1-16</DrawingNumber>
+      <MainMark>90_SCP1-16</MainMark>
+      <PieceMark>90_PL-1176</PieceMark>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Sequence>Phase 90C</Sequence>
+      <LotNumber>Lot 151 - Columns(F)</LotNumber>
+      <Shape>PLT</Shape>
+      <Grade>250</Grade>
+      <Dimensions Metric="true">12X200</Dimensions>
+      <Length UOM="MM">240</Length>
+      <Width UOM="MM">200</Width>
+      <PlateThickness UOM="MM">12</PlateThickness>
+      <Area UOM="SQM">0.048</Area>
+      <SquaringAmount UOM="MM">0</SquaringAmount>
+      <Finish>P2 - EXT - PAINT</Finish>
+      <Route>Plates</Route>
+    </WorkOrderPart>
+    <WorkOrderPart>
+      <PartID>823671</PartID>
+      <Quantity>4</Quantity>
+      <JobNumber>240175</JobNumber>
+      <DrawingNumber>90_SCP1-3</DrawingNumber>
+      <MainMark>90_SCP1-3</MainMark>
+      <PieceMark>90_PL-1176</PieceMark>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Sequence>Phase 90C</Sequence>
+      <LotNumber>Lot 151 - Columns(F)</LotNumber>
+      <Shape>PLT</Shape>
+      <Grade>250</Grade>
+      <Dimensions Metric="true">12X200</Dimensions>
+      <Length UOM="MM">240</Length>
+      <Width UOM="MM">200</Width>
+      <PlateThickness UOM="MM">12</PlateThickness>
+      <Area UOM="SQM">0.048</Area>
+      <SquaringAmount UOM="MM">0</SquaringAmount>
+      <Finish>P2 - EXT - PAINT</Finish>
+      <Route>Plates</Route>
+    </WorkOrderPart>
+    <WorkOrderPart>
+      <PartID>823674</PartID>
+      <Quantity>1</Quantity>
+      <JobNumber>240175</JobNumber>
+      <DrawingNumber>90_SCP1-4</DrawingNumber>
+      <MainMark>90_SCP1-4</MainMark>
+      <PieceMark>90_PL-2492</PieceMark>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Sequence>Phase 90C</Sequence>
+      <LotNumber>Lot 151 - Columns(F)</LotNumber>
+      <Shape>PLT</Shape>
+      <Grade>250</Grade>
+      <Dimensions Metric="true">12X180</Dimensions>
+      <Length UOM="MM">240</Length>
+      <Width UOM="MM">180</Width>
+      <PlateThickness UOM="MM">12</PlateThickness>
+      <Area UOM="SQM">0.0432</Area>
+      <SquaringAmount UOM="MM">0</SquaringAmount>
+      <Finish>P2 - EXT - PAINT</Finish>
+      <Route>Plates</Route>
+    </WorkOrderPart>
+    <WorkOrderPart>
+      <PartID>823677</PartID>
+      <Quantity>1</Quantity>
+      <JobNumber>240175</JobNumber>
+      <DrawingNumber>90_SCP1-5</DrawingNumber>
+      <MainMark>90_SCP1-5</MainMark>
+      <PieceMark>90_PL-2514</PieceMark>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Sequence>Phase 90C</Sequence>
+      <LotNumber>Lot 151 - Columns(F)</LotNumber>
+      <Shape>PLT</Shape>
+      <Grade>250</Grade>
+      <Dimensions Metric="true">12X200</Dimensions>
+      <Length UOM="MM">240</Length>
+      <Width UOM="MM">200</Width>
+      <PlateThickness UOM="MM">12</PlateThickness>
+      <Area UOM="SQM">0.0504</Area>
+      <SquaringAmount UOM="MM">0</SquaringAmount>
+      <Finish>P2 - EXT - PAINT</Finish>
+      <Route>Plates</Route>
+    </WorkOrderPart>
+    <WorkOrderPart>
+      <PartID>823680</PartID>
+      <Quantity>1</Quantity>
+      <JobNumber>240175</JobNumber>
+      <DrawingNumber>90_SCP1-6</DrawingNumber>
+      <MainMark>90_SCP1-6</MainMark>
+      <PieceMark>90_PL-2514</PieceMark>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Sequence>Phase 90C</Sequence>
+      <LotNumber>Lot 151 - Columns(F)</LotNumber>
+      <Shape>PLT</Shape>
+      <Grade>250</Grade>
+      <Dimensions Metric="true">12X200</Dimensions>
+      <Length UOM="MM">240</Length>
+      <Width UOM="MM">200</Width>
+      <PlateThickness UOM="MM">12</PlateThickness>
+      <Area UOM="SQM">0.0504</Area>
+      <SquaringAmount UOM="MM">0</SquaringAmount>
+      <Finish>P2 - EXT - PAINT</Finish>
+      <Route>Plates</Route>
+    </WorkOrderPart>
+    <WorkOrderPart>
+      <PartID>824308</PartID>
+      <Quantity>1</Quantity>
+      <JobNumber>240175</JobNumber>
+      <DrawingNumber>90_SCP1-1</DrawingNumber>
+      <MainMark>90_SCP1-1</MainMark>
+      <PieceMark>90_PL-2689</PieceMark>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Sequence>Phase 90C</Sequence>
+      <LotNumber>Lot 151 - Columns(F)</LotNumber>
+      <Shape>PLT</Shape>
+      <Grade>250</Grade>
+      <Dimensions Metric="true">12X200</Dimensions>
+      <Length UOM="MM">200</Length>
+      <Width UOM="MM">200</Width>
+      <PlateThickness UOM="MM">12</PlateThickness>
+      <Area UOM="SQM">0.04</Area>
+      <SquaringAmount UOM="MM">0</SquaringAmount>
+      <Finish>P2 - EXT - PAINT</Finish>
+      <Route>Plates</Route>
+    </WorkOrderPart>
+    <WorkOrderPart>
+      <PartID>824309</PartID>
+      <Quantity>2</Quantity>
+      <JobNumber>240175</JobNumber>
+      <DrawingNumber>90_SCP1-7</DrawingNumber>
+      <MainMark>90_SCP1-7</MainMark>
+      <PieceMark>90_PL-2689</PieceMark>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Sequence>Phase 90C</Sequence>
+      <LotNumber>Lot 151 - Columns(F)</LotNumber>
+      <Shape>PLT</Shape>
+      <Grade>250</Grade>
+      <Dimensions Metric="true">12X200</Dimensions>
+      <Length UOM="MM">200</Length>
+      <Width UOM="MM">200</Width>
+      <PlateThickness UOM="MM">12</PlateThickness>
+      <Area UOM="SQM">0.04</Area>
+      <SquaringAmount UOM="MM">0</SquaringAmount>
+      <Finish>P2 - EXT - PAINT</Finish>
+      <Route>Plates</Route>
+    </WorkOrderPart>
+  </WorkOrderParts>
+
+  <WorkOrderCNCData>
+    <PartCNCData>
+      <JobNumber>240175</JobNumber>
+      <PieceMark>90_PL-2689</PieceMark>
+      <CNCFormat>.NC1</CNCFormat>
+      <CNCData>ST
+  240175
+  0
+  0
+  90_PL-2689
+  250
+  3
+  PLT12
+  B
+  200.00
+  200.00
+  0
+  0
+  12.00
+  0
+  0
+  0
+  0.000
+  0.000
+  0.000
+  0.000
+
+
+
+
+AK
+  v 0.00u 0.00 0 0 0 0 0
+  v 200.00u 0.00 0 0 0 0 0
+  v 200.00u 200.00 0 0 0 0 0
+  v 0.00u 200.00 0 0 0 0 0
+  v 0.00u 0.00 0 0 0 0 0
+EN
+</CNCData>
+    </PartCNCData>
+    <PartCNCData>
+      <JobNumber>240175</JobNumber>
+      <PieceMark>90_PL-2514</PieceMark>
+      <CNCFormat>.NC1</CNCFormat>
+      <CNCData>ST
+** 90_PL-2514.nc1
+  240175
+  90_PL-2514
+  90_PL-2514
+  90
+  250
+  2
+  PL12
+  B
+     240.00
+     210.00
+      12.00
+      12.00
+      12.00
+       0.00
+     94.200
+      2.214
+      0.000
+      0.000
+      0.000
+      0.000
+
+
+
+
+AK
+  v       0.00u      0.00       0.00       0.00       0.00       0.00       0.00
+        240.00       0.00       0.00       0.00       0.00       0.00       0.00
+        240.00     210.00       0.00       0.00       0.00       0.00       0.00
+          0.00     210.00       0.00       0.00       0.00       0.00       0.00
+          0.00       0.00       0.00       0.00       0.00       0.00       0.00
+SI
+  v   52.79u  115.00    0.00 020  90_PL-2514
+BO
+  v     105.00s     80.00      26.00
+  v     105.00s    180.00      26.00
+  v     205.00s     80.00      26.00
+  v     205.00s    180.00      26.00
+EN
+</CNCData>
+    </PartCNCData>
+    <PartCNCData>
+      <JobNumber>240175</JobNumber>
+      <PieceMark>90_PL-2492</PieceMark>
+      <CNCFormat>.NC1</CNCFormat>
+      <CNCData>ST
+** 90_PL-2492.nc1
+  240175
+  90_PL-2492
+  90_PL-2492
+  90
+  250
+  1
+  FL12
+  B
+     240.00
+     180.00
+      12.00
+      12.00
+      12.00
+       0.00
+     94.200
+      2.233
+      0.000
+      0.000
+      0.000
+      0.000
+
+
+
+
+AK
+  v       0.00u      0.00       0.00       0.00       0.00       0.00       0.00
+        240.00       0.00       0.00       0.00       0.00       0.00       0.00
+        240.00     180.00       0.00       0.00       0.00       0.00       0.00
+          0.00     180.00       0.00       0.00       0.00       0.00       0.00
+          0.00       0.00       0.00       0.00       0.00       0.00       0.00
+SI
+  v   52.79u  100.00    0.00 020  90_PL-2492
+BO
+  v     105.00s     50.00      26.00
+  v     105.00s    150.00      26.00
+  v     205.00s     50.00      26.00
+  v     205.00s    150.00      26.00
+EN
+</CNCData>
+    </PartCNCData>
+    <PartCNCData>
+      <JobNumber>240175</JobNumber>
+      <PieceMark>90_PL-1176</PieceMark>
+      <CNCFormat>.NC1</CNCFormat>
+      <CNCData>ST
+** 90_PL-1176.nc1
+  240175
+  90_PL-1176
+  90_PL-1176
+  90
+  250
+  5
+  FL12
+  B
+     240.00
+     200.00
+      12.00
+      12.00
+      12.00
+       0.00
+     94.200
+      2.220
+      0.000
+      0.000
+      0.000
+      0.000
+
+
+
+
+AK
+  v       0.00u      0.00       0.00       0.00       0.00       0.00       0.00
+        240.00       0.00       0.00       0.00       0.00       0.00       0.00
+        240.00     200.00       0.00       0.00       0.00       0.00       0.00
+          0.00     200.00       0.00       0.00       0.00       0.00       0.00
+          0.00       0.00       0.00       0.00       0.00       0.00       0.00
+SI
+  v   52.79u  110.00    0.00 020  90_PL-1176
+BO
+  v     105.00s     50.00      26.00
+  v     105.00s    150.00      26.00
+  v     205.00s     50.00      26.00
+  v     205.00s    150.00      26.00
+EN
+</CNCData>
+    </PartCNCData>
+    <PartCNCData>
+      <JobNumber>240175</JobNumber>
+      <PieceMark>90_PL-1156</PieceMark>
+      <CNCFormat>.NC1</CNCFormat>
+      <CNCData>ST
+** 90_PL-1156.nc1
+  240175
+  90_PL-1156
+  90_PL-1156
+  90
+  250
+  32
+  FL12
+  B
+     200.00
+     200.00
+      12.00
+      12.00
+      12.00
+       0.00
+     94.200
+      2.240
+      0.000
+      0.000
+      0.000
+      0.000
+
+
+
+
+AK
+  v       0.00u      0.00       0.00       0.00       0.00       0.00       0.00
+        200.00       0.00       0.00       0.00       0.00       0.00       0.00
+        200.00     200.00       0.00       0.00       0.00       0.00       0.00
+          0.00     200.00       0.00       0.00       0.00       0.00       0.00
+          0.00       0.00       0.00       0.00       0.00       0.00       0.00
+SI
+  v   32.79u  110.00    0.00 020  90_PL-1156
+BO
+  v      50.00s     35.00      26.00
+  v      50.00s    165.00      26.00
+  v     150.00s     35.00      26.00
+  v     150.00s    165.00      26.00
+EN
+</CNCData>
+    </PartCNCData>
+    <PartCNCData>
+      <JobNumber>240175</JobNumber>
+      <PieceMark>90_PL-501</PieceMark>
+      <CNCFormat>.NC1</CNCFormat>
+      <CNCData>ST
+** 90_PL-501.nc1
+  240175
+  90_PL-501
+  90_PL-501
+  90
+  250
+  43
+  PL6
+  B
+     119.00
+      69.00
+       6.00
+       6.00
+       6.00
+       0.00
+     47.100
+      2.275
+      0.000
+      0.000
+      0.000
+      0.000
+
+
+
+
+AK
+  v       0.00u      0.00       0.00       0.00       0.00       0.00       0.00
+        119.00       0.00       0.00       0.00       0.00       0.00       0.00
+        119.00      69.00       0.00       0.00       0.00       0.00       0.00
+          0.00      69.00       0.00       0.00       0.00       0.00       0.00
+          0.00       0.00       0.00       0.00       0.00       0.00       0.00
+SI
+  v   -1.21u   44.50    0.00 020  90_PL-501
+EN
+</CNCData>
+    </PartCNCData>
+    <PartCNCData>
+      <JobNumber>240175</JobNumber>
+      <PieceMark>90_PL-1344</PieceMark>
+      <CNCFormat>.NC1</CNCFormat>
+      <CNCData>ST
+** 90_PL-1344.nc1
+  240175
+  90_PL-1344
+  90_PL-1344
+  90
+  250
+  2
+  FL5
+  B
+      20.00
+      50.00
+       5.00
+       5.00
+       5.00
+       0.00
+     39.250
+      2.700
+      0.000
+      0.000
+      0.000
+      0.000
+
+
+
+
+AK
+  v       0.00u     50.00       0.00       0.00       0.00       0.00       0.00
+          0.00       0.00       0.00       0.00       0.00       0.00       0.00
+         20.00       0.00       0.00       0.00       0.00       0.00       0.00
+         20.00      50.00       0.00       0.00       0.00       0.00       0.00
+          0.00      50.00      -0.00       0.00       0.00       0.00       0.00
+SI
+  h  -57.21u   15.00    0.00 020  90_PL-1344
+BO
+  v      10.00o     25.00s     22.50      5.28       0.00      0.00     90.00
+  v      10.00o     25.00       8.00      0.00
+  v      10.00o     25.00s     22.50      5.28       0.00      0.00     90.00
+  v      10.00o     25.00       8.00      0.00
+EN
+</CNCData>
+    </PartCNCData>
+    <PartCNCData>
+      <JobNumber>240175</JobNumber>
+      <PieceMark>90_PL-1155</PieceMark>
+      <CNCFormat>.NC1</CNCFormat>
+      <CNCData>ST
+** 90_PL-1155.nc1
+  240175
+  90_PL-1155
+  90_PL-1155
+  90
+  250
+  10
+  FL5
+  B
+      20.00
+      50.00
+       5.00
+       5.00
+       5.00
+       0.00
+     39.250
+      2.700
+      0.000
+      0.000
+      0.000
+      0.000
+
+
+
+
+AK
+  v       0.00u     50.00       0.00       0.00       0.00       0.00       0.00
+          0.00       0.00       0.00       0.00       0.00       0.00       0.00
+         20.00       0.00       0.00       0.00       0.00       0.00       0.00
+         20.00      50.00       0.00       0.00       0.00       0.00       0.00
+          0.00      50.00      -0.00       0.00       0.00       0.00       0.00
+SI
+  h  -57.21u   15.00    0.00 020  90_PL-1155
+BO
+  v      10.00o     25.00s     22.50      5.28       0.00      0.00     90.00
+  v      10.00o     25.00       8.00      0.00
+EN
+</CNCData>
+    </PartCNCData>
+    <PartCNCData>
+      <JobNumber>240175</JobNumber>
+      <PieceMark>90_PL-1154</PieceMark>
+      <CNCFormat>.NC1</CNCFormat>
+      <CNCData>ST
+** 90_PL-1154.nc1
+  240175
+  90_PL-1154
+  90_PL-1154
+  90
+  250
+  316
+  FL5
+  B
+      50.00
+      50.00
+       5.00
+       5.00
+       5.00
+       0.00
+     39.250
+      2.400
+      0.000
+      0.000
+      0.000
+      0.000
+
+
+
+
+AK
+  v       0.00u     50.00       0.00       0.00       0.00       0.00       0.00
+          0.00       0.00       0.00       0.00       0.00       0.00       0.00
+         50.00       0.00       0.00       0.00       0.00       0.00       0.00
+         50.00      50.00       0.00       0.00       0.00       0.00       0.00
+          0.00      50.00      -0.00       0.00       0.00       0.00       0.00
+SI
+  h  -42.21u   15.00    0.00 020  90_PL-1154
+BO
+  v      25.00u     25.00s     22.50      5.28       0.00      0.00     90.00
+  v      25.00u     25.00       8.00      0.00
+EN
+</CNCData>
+    </PartCNCData>
+  </WorkOrderCNCData>
+
+  <AvailableInventory>
+    <InventoryItem>
+      <ID>0</ID>
+      <ExternalInventoryLinkID>0</ExternalInventoryLinkID>
+      <Shape>PLT</Shape>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Dimensions Metric="true">6X1500</Dimensions>
+      <Width UOM="MM">1500</Width>
+      <PlateThickness UOM="MM">6</PlateThickness>
+      <Grade>250</Grade>
+      <Length UOM="MM">3000</Length>
+      <Weight UOM="KG">210.6</Weight>
+      <Quantity>any</Quantity>
+      <Location></Location>
+      <SecondaryLocation></SecondaryLocation>
+      <Supplier>Warehouse</Supplier>
+      <HeatNumber></HeatNumber>
+      <HeatSerialNumber></HeatSerialNumber>
+      <PONumber></PONumber>
+      <BillOfLadingNumber></BillOfLadingNumber>
+      <CountryOfOrigin></CountryOfOrigin>
+      <MillOfOrigin></MillOfOrigin>
+      <PartNumber></PartNumber>
+      <CostCode></CostCode>
+      <CostType></CostType>
+      <Remarks></Remarks>
+    </InventoryItem>
+    <InventoryItem>
+      <ID>0</ID>
+      <ExternalInventoryLinkID>0</ExternalInventoryLinkID>
+      <Shape>PLT</Shape>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Dimensions Metric="true">6X2000</Dimensions>
+      <Width UOM="MM">2000</Width>
+      <PlateThickness UOM="MM">6</PlateThickness>
+      <Grade>250</Grade>
+      <Length UOM="MM">3000</Length>
+      <Weight UOM="KG">280.8</Weight>
+      <Quantity>any</Quantity>
+      <Location></Location>
+      <SecondaryLocation></SecondaryLocation>
+      <Supplier>Warehouse</Supplier>
+      <HeatNumber></HeatNumber>
+      <HeatSerialNumber></HeatSerialNumber>
+      <PONumber></PONumber>
+      <BillOfLadingNumber></BillOfLadingNumber>
+      <CountryOfOrigin></CountryOfOrigin>
+      <MillOfOrigin></MillOfOrigin>
+      <PartNumber></PartNumber>
+      <CostCode></CostCode>
+      <CostType></CostType>
+      <Remarks></Remarks>
+    </InventoryItem>
+    <InventoryItem>
+      <ID>0</ID>
+      <ExternalInventoryLinkID>0</ExternalInventoryLinkID>
+      <Shape>PLT</Shape>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Dimensions Metric="true">6X2000</Dimensions>
+      <Width UOM="MM">2000</Width>
+      <PlateThickness UOM="MM">6</PlateThickness>
+      <Grade>250</Grade>
+      <Length UOM="MM">4000</Length>
+      <Weight UOM="KG">374.4</Weight>
+      <Quantity>any</Quantity>
+      <Location></Location>
+      <SecondaryLocation></SecondaryLocation>
+      <Supplier>Warehouse</Supplier>
+      <HeatNumber></HeatNumber>
+      <HeatSerialNumber></HeatSerialNumber>
+      <PONumber></PONumber>
+      <BillOfLadingNumber></BillOfLadingNumber>
+      <CountryOfOrigin></CountryOfOrigin>
+      <MillOfOrigin></MillOfOrigin>
+      <PartNumber></PartNumber>
+      <CostCode></CostCode>
+      <CostType></CostType>
+      <Remarks></Remarks>
+    </InventoryItem>
+    <InventoryItem>
+      <ID>0</ID>
+      <ExternalInventoryLinkID>0</ExternalInventoryLinkID>
+      <Shape>PLT</Shape>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Dimensions Metric="true">6X2500</Dimensions>
+      <Width UOM="MM">2500</Width>
+      <PlateThickness UOM="MM">6</PlateThickness>
+      <Grade>250</Grade>
+      <Length UOM="MM">4000</Length>
+      <Weight UOM="KG">468</Weight>
+      <Quantity>any</Quantity>
+      <Location></Location>
+      <SecondaryLocation></SecondaryLocation>
+      <Supplier>Warehouse</Supplier>
+      <HeatNumber></HeatNumber>
+      <HeatSerialNumber></HeatSerialNumber>
+      <PONumber></PONumber>
+      <BillOfLadingNumber></BillOfLadingNumber>
+      <CountryOfOrigin></CountryOfOrigin>
+      <MillOfOrigin></MillOfOrigin>
+      <PartNumber></PartNumber>
+      <CostCode></CostCode>
+      <CostType></CostType>
+      <Remarks></Remarks>
+    </InventoryItem>
+    <InventoryItem>
+      <ID>0</ID>
+      <ExternalInventoryLinkID>0</ExternalInventoryLinkID>
+      <Shape>PLT</Shape>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Dimensions Metric="true">6X1800</Dimensions>
+      <Width UOM="MM">1800</Width>
+      <PlateThickness UOM="MM">6</PlateThickness>
+      <Grade>250</Grade>
+      <Length UOM="MM">6000</Length>
+      <Weight UOM="KG">505.44</Weight>
+      <Quantity>any</Quantity>
+      <Location></Location>
+      <SecondaryLocation></SecondaryLocation>
+      <Supplier>Warehouse</Supplier>
+      <HeatNumber></HeatNumber>
+      <HeatSerialNumber></HeatSerialNumber>
+      <PONumber></PONumber>
+      <BillOfLadingNumber></BillOfLadingNumber>
+      <CountryOfOrigin></CountryOfOrigin>
+      <MillOfOrigin></MillOfOrigin>
+      <PartNumber></PartNumber>
+      <CostCode></CostCode>
+      <CostType></CostType>
+      <Remarks></Remarks>
+    </InventoryItem>
+    <InventoryItem>
+      <ID>0</ID>
+      <ExternalInventoryLinkID>0</ExternalInventoryLinkID>
+      <Shape>PLT</Shape>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Dimensions Metric="true">6X2000</Dimensions>
+      <Width UOM="MM">2000</Width>
+      <PlateThickness UOM="MM">6</PlateThickness>
+      <Grade>250</Grade>
+      <Length UOM="MM">6000</Length>
+      <Weight UOM="KG">561.6</Weight>
+      <Quantity>any</Quantity>
+      <Location></Location>
+      <SecondaryLocation></SecondaryLocation>
+      <Supplier>Warehouse</Supplier>
+      <HeatNumber></HeatNumber>
+      <HeatSerialNumber></HeatSerialNumber>
+      <PONumber></PONumber>
+      <BillOfLadingNumber></BillOfLadingNumber>
+      <CountryOfOrigin></CountryOfOrigin>
+      <MillOfOrigin></MillOfOrigin>
+      <PartNumber></PartNumber>
+      <CostCode></CostCode>
+      <CostType></CostType>
+      <Remarks></Remarks>
+    </InventoryItem>
+    <InventoryItem>
+      <ID>0</ID>
+      <ExternalInventoryLinkID>0</ExternalInventoryLinkID>
+      <Shape>PLT</Shape>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Dimensions Metric="true">6X2400</Dimensions>
+      <Width UOM="MM">2400</Width>
+      <PlateThickness UOM="MM">6</PlateThickness>
+      <Grade>250</Grade>
+      <Length UOM="MM">6000</Length>
+      <Weight UOM="KG">673.92</Weight>
+      <Quantity>any</Quantity>
+      <Location></Location>
+      <SecondaryLocation></SecondaryLocation>
+      <Supplier>Warehouse</Supplier>
+      <HeatNumber></HeatNumber>
+      <HeatSerialNumber></HeatSerialNumber>
+      <PONumber></PONumber>
+      <BillOfLadingNumber></BillOfLadingNumber>
+      <CountryOfOrigin></CountryOfOrigin>
+      <MillOfOrigin></MillOfOrigin>
+      <PartNumber></PartNumber>
+      <CostCode></CostCode>
+      <CostType></CostType>
+      <Remarks></Remarks>
+    </InventoryItem>
+    <InventoryItem>
+      <ID>0</ID>
+      <ExternalInventoryLinkID>0</ExternalInventoryLinkID>
+      <Shape>PLT</Shape>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Dimensions Metric="true">6X2400</Dimensions>
+      <Width UOM="MM">2400</Width>
+      <PlateThickness UOM="MM">6</PlateThickness>
+      <Grade>250</Grade>
+      <Length UOM="MM">9000</Length>
+      <Weight UOM="KG">1010.88</Weight>
+      <Quantity>any</Quantity>
+      <Location></Location>
+      <SecondaryLocation></SecondaryLocation>
+      <Supplier>Warehouse</Supplier>
+      <HeatNumber></HeatNumber>
+      <HeatSerialNumber></HeatSerialNumber>
+      <PONumber></PONumber>
+      <BillOfLadingNumber></BillOfLadingNumber>
+      <CountryOfOrigin></CountryOfOrigin>
+      <MillOfOrigin></MillOfOrigin>
+      <PartNumber></PartNumber>
+      <CostCode></CostCode>
+      <CostType></CostType>
+      <Remarks></Remarks>
+    </InventoryItem>
+    <InventoryItem>
+      <ID>0</ID>
+      <ExternalInventoryLinkID>0</ExternalInventoryLinkID>
+      <Shape>PLT</Shape>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Dimensions Metric="true">6X3000</Dimensions>
+      <Width UOM="MM">3000</Width>
+      <PlateThickness UOM="MM">6</PlateThickness>
+      <Grade>250</Grade>
+      <Length UOM="MM">9000</Length>
+      <Weight UOM="KG">1263.6</Weight>
+      <Quantity>any</Quantity>
+      <Location></Location>
+      <SecondaryLocation></SecondaryLocation>
+      <Supplier>Warehouse</Supplier>
+      <HeatNumber></HeatNumber>
+      <HeatSerialNumber></HeatSerialNumber>
+      <PONumber></PONumber>
+      <BillOfLadingNumber></BillOfLadingNumber>
+      <CountryOfOrigin></CountryOfOrigin>
+      <MillOfOrigin></MillOfOrigin>
+      <PartNumber></PartNumber>
+      <CostCode></CostCode>
+      <CostType></CostType>
+      <Remarks></Remarks>
+    </InventoryItem>
+    <InventoryItem>
+      <ID>0</ID>
+      <ExternalInventoryLinkID>0</ExternalInventoryLinkID>
+      <Shape>PLT</Shape>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Dimensions Metric="true">6X3200</Dimensions>
+      <Width UOM="MM">3200</Width>
+      <PlateThickness UOM="MM">6</PlateThickness>
+      <Grade>250</Grade>
+      <Length UOM="MM">12000</Length>
+      <Weight UOM="KG">1797.12</Weight>
+      <Quantity>any</Quantity>
+      <Location></Location>
+      <SecondaryLocation></SecondaryLocation>
+      <Supplier>Warehouse</Supplier>
+      <HeatNumber></HeatNumber>
+      <HeatSerialNumber></HeatSerialNumber>
+      <PONumber></PONumber>
+      <BillOfLadingNumber></BillOfLadingNumber>
+      <CountryOfOrigin></CountryOfOrigin>
+      <MillOfOrigin></MillOfOrigin>
+      <PartNumber></PartNumber>
+      <CostCode></CostCode>
+      <CostType></CostType>
+      <Remarks></Remarks>
+    </InventoryItem>
+    <InventoryItem>
+      <ID>0</ID>
+      <ExternalInventoryLinkID>0</ExternalInventoryLinkID>
+      <Shape>PLT</Shape>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Dimensions Metric="true">12X1500</Dimensions>
+      <Width UOM="MM">1500</Width>
+      <PlateThickness UOM="MM">12</PlateThickness>
+      <Grade>250</Grade>
+      <Length UOM="MM">3000</Length>
+      <Weight UOM="KG">423.9</Weight>
+      <Quantity>any</Quantity>
+      <Location></Location>
+      <SecondaryLocation></SecondaryLocation>
+      <Supplier>Warehouse</Supplier>
+      <HeatNumber></HeatNumber>
+      <HeatSerialNumber></HeatSerialNumber>
+      <PONumber></PONumber>
+      <BillOfLadingNumber></BillOfLadingNumber>
+      <CountryOfOrigin></CountryOfOrigin>
+      <MillOfOrigin></MillOfOrigin>
+      <PartNumber></PartNumber>
+      <CostCode></CostCode>
+      <CostType></CostType>
+      <Remarks></Remarks>
+    </InventoryItem>
+    <InventoryItem>
+      <ID>0</ID>
+      <ExternalInventoryLinkID>0</ExternalInventoryLinkID>
+      <Shape>PLT</Shape>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Dimensions Metric="true">12X2000</Dimensions>
+      <Width UOM="MM">2000</Width>
+      <PlateThickness UOM="MM">12</PlateThickness>
+      <Grade>250</Grade>
+      <Length UOM="MM">3000</Length>
+      <Weight UOM="KG">565.2</Weight>
+      <Quantity>any</Quantity>
+      <Location></Location>
+      <SecondaryLocation></SecondaryLocation>
+      <Supplier>Warehouse</Supplier>
+      <HeatNumber></HeatNumber>
+      <HeatSerialNumber></HeatSerialNumber>
+      <PONumber></PONumber>
+      <BillOfLadingNumber></BillOfLadingNumber>
+      <CountryOfOrigin></CountryOfOrigin>
+      <MillOfOrigin></MillOfOrigin>
+      <PartNumber></PartNumber>
+      <CostCode></CostCode>
+      <CostType></CostType>
+      <Remarks></Remarks>
+    </InventoryItem>
+    <InventoryItem>
+      <ID>0</ID>
+      <ExternalInventoryLinkID>0</ExternalInventoryLinkID>
+      <Shape>PLT</Shape>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Dimensions Metric="true">12X2000</Dimensions>
+      <Width UOM="MM">2000</Width>
+      <PlateThickness UOM="MM">12</PlateThickness>
+      <Grade>250</Grade>
+      <Length UOM="MM">4000</Length>
+      <Weight UOM="KG">753.6</Weight>
+      <Quantity>any</Quantity>
+      <Location></Location>
+      <SecondaryLocation></SecondaryLocation>
+      <Supplier>Warehouse</Supplier>
+      <HeatNumber></HeatNumber>
+      <HeatSerialNumber></HeatSerialNumber>
+      <PONumber></PONumber>
+      <BillOfLadingNumber></BillOfLadingNumber>
+      <CountryOfOrigin></CountryOfOrigin>
+      <MillOfOrigin></MillOfOrigin>
+      <PartNumber></PartNumber>
+      <CostCode></CostCode>
+      <CostType></CostType>
+      <Remarks></Remarks>
+    </InventoryItem>
+    <InventoryItem>
+      <ID>0</ID>
+      <ExternalInventoryLinkID>0</ExternalInventoryLinkID>
+      <Shape>PLT</Shape>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Dimensions Metric="true">12X2500</Dimensions>
+      <Width UOM="MM">2500</Width>
+      <PlateThickness UOM="MM">12</PlateThickness>
+      <Grade>250</Grade>
+      <Length UOM="MM">4000</Length>
+      <Weight UOM="KG">942</Weight>
+      <Quantity>any</Quantity>
+      <Location></Location>
+      <SecondaryLocation></SecondaryLocation>
+      <Supplier>Warehouse</Supplier>
+      <HeatNumber></HeatNumber>
+      <HeatSerialNumber></HeatSerialNumber>
+      <PONumber></PONumber>
+      <BillOfLadingNumber></BillOfLadingNumber>
+      <CountryOfOrigin></CountryOfOrigin>
+      <MillOfOrigin></MillOfOrigin>
+      <PartNumber></PartNumber>
+      <CostCode></CostCode>
+      <CostType></CostType>
+      <Remarks></Remarks>
+    </InventoryItem>
+    <InventoryItem>
+      <ID>0</ID>
+      <ExternalInventoryLinkID>0</ExternalInventoryLinkID>
+      <Shape>PLT</Shape>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Dimensions Metric="true">12X2000</Dimensions>
+      <Width UOM="MM">2000</Width>
+      <PlateThickness UOM="MM">12</PlateThickness>
+      <Grade>250</Grade>
+      <Length UOM="MM">6000</Length>
+      <Weight UOM="KG">1130.4</Weight>
+      <Quantity>any</Quantity>
+      <Location></Location>
+      <SecondaryLocation></SecondaryLocation>
+      <Supplier>Warehouse</Supplier>
+      <HeatNumber></HeatNumber>
+      <HeatSerialNumber></HeatSerialNumber>
+      <PONumber></PONumber>
+      <BillOfLadingNumber></BillOfLadingNumber>
+      <CountryOfOrigin></CountryOfOrigin>
+      <MillOfOrigin></MillOfOrigin>
+      <PartNumber></PartNumber>
+      <CostCode></CostCode>
+      <CostType></CostType>
+      <Remarks></Remarks>
+    </InventoryItem>
+    <InventoryItem>
+      <ID>0</ID>
+      <ExternalInventoryLinkID>0</ExternalInventoryLinkID>
+      <Shape>PLT</Shape>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Dimensions Metric="true">12X2400</Dimensions>
+      <Width UOM="MM">2400</Width>
+      <PlateThickness UOM="MM">12</PlateThickness>
+      <Grade>250</Grade>
+      <Length UOM="MM">6000</Length>
+      <Weight UOM="KG">1356.48</Weight>
+      <Quantity>any</Quantity>
+      <Location></Location>
+      <SecondaryLocation></SecondaryLocation>
+      <Supplier>Warehouse</Supplier>
+      <HeatNumber></HeatNumber>
+      <HeatSerialNumber></HeatSerialNumber>
+      <PONumber></PONumber>
+      <BillOfLadingNumber></BillOfLadingNumber>
+      <CountryOfOrigin></CountryOfOrigin>
+      <MillOfOrigin></MillOfOrigin>
+      <PartNumber></PartNumber>
+      <CostCode></CostCode>
+      <CostType></CostType>
+      <Remarks></Remarks>
+    </InventoryItem>
+    <InventoryItem>
+      <ID>0</ID>
+      <ExternalInventoryLinkID>0</ExternalInventoryLinkID>
+      <Shape>PLT</Shape>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Dimensions Metric="true">12X2400</Dimensions>
+      <Width UOM="MM">2400</Width>
+      <PlateThickness UOM="MM">12</PlateThickness>
+      <Grade>250</Grade>
+      <Length UOM="MM">9000</Length>
+      <Weight UOM="KG">2034.72</Weight>
+      <Quantity>any</Quantity>
+      <Location></Location>
+      <SecondaryLocation></SecondaryLocation>
+      <Supplier>Warehouse</Supplier>
+      <HeatNumber></HeatNumber>
+      <HeatSerialNumber></HeatSerialNumber>
+      <PONumber></PONumber>
+      <BillOfLadingNumber></BillOfLadingNumber>
+      <CountryOfOrigin></CountryOfOrigin>
+      <MillOfOrigin></MillOfOrigin>
+      <PartNumber></PartNumber>
+      <CostCode></CostCode>
+      <CostType></CostType>
+      <Remarks></Remarks>
+    </InventoryItem>
+    <InventoryItem>
+      <ID>0</ID>
+      <ExternalInventoryLinkID>0</ExternalInventoryLinkID>
+      <Shape>PLT</Shape>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Dimensions Metric="true">12X3000</Dimensions>
+      <Width UOM="MM">3000</Width>
+      <PlateThickness UOM="MM">12</PlateThickness>
+      <Grade>250</Grade>
+      <Length UOM="MM">9000</Length>
+      <Weight UOM="KG">2543.4</Weight>
+      <Quantity>any</Quantity>
+      <Location></Location>
+      <SecondaryLocation></SecondaryLocation>
+      <Supplier>Warehouse</Supplier>
+      <HeatNumber></HeatNumber>
+      <HeatSerialNumber></HeatSerialNumber>
+      <PONumber></PONumber>
+      <BillOfLadingNumber></BillOfLadingNumber>
+      <CountryOfOrigin></CountryOfOrigin>
+      <MillOfOrigin></MillOfOrigin>
+      <PartNumber></PartNumber>
+      <CostCode></CostCode>
+      <CostType></CostType>
+      <Remarks></Remarks>
+    </InventoryItem>
+    <InventoryItem>
+      <ID>0</ID>
+      <ExternalInventoryLinkID>0</ExternalInventoryLinkID>
+      <Shape>PLT</Shape>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Dimensions Metric="true">12X3200</Dimensions>
+      <Width UOM="MM">3200</Width>
+      <PlateThickness UOM="MM">12</PlateThickness>
+      <Grade>250</Grade>
+      <Length UOM="MM">12000</Length>
+      <Weight UOM="KG">3617.28</Weight>
+      <Quantity>any</Quantity>
+      <Location></Location>
+      <SecondaryLocation></SecondaryLocation>
+      <Supplier>Warehouse</Supplier>
+      <HeatNumber></HeatNumber>
+      <HeatSerialNumber></HeatSerialNumber>
+      <PONumber></PONumber>
+      <BillOfLadingNumber></BillOfLadingNumber>
+      <CountryOfOrigin></CountryOfOrigin>
+      <MillOfOrigin></MillOfOrigin>
+      <PartNumber></PartNumber>
+      <CostCode></CostCode>
+      <CostType></CostType>
+      <Remarks></Remarks>
+    </InventoryItem>
+    <InventoryItem>
+      <ID>0</ID>
+      <ExternalInventoryLinkID>0</ExternalInventoryLinkID>
+      <Shape>PLT</Shape>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Dimensions Metric="true">5X1500</Dimensions>
+      <Width UOM="MM">1500</Width>
+      <PlateThickness UOM="MM">5</PlateThickness>
+      <Grade>250</Grade>
+      <Length UOM="MM">3000</Length>
+      <Weight UOM="KG">176.625</Weight>
+      <Quantity>any</Quantity>
+      <Location></Location>
+      <SecondaryLocation></SecondaryLocation>
+      <Supplier>Warehouse</Supplier>
+      <HeatNumber></HeatNumber>
+      <HeatSerialNumber></HeatSerialNumber>
+      <PONumber></PONumber>
+      <BillOfLadingNumber></BillOfLadingNumber>
+      <CountryOfOrigin></CountryOfOrigin>
+      <MillOfOrigin></MillOfOrigin>
+      <PartNumber></PartNumber>
+      <CostCode></CostCode>
+      <CostType></CostType>
+      <Remarks></Remarks>
+    </InventoryItem>
+    <InventoryItem>
+      <ID>0</ID>
+      <ExternalInventoryLinkID>0</ExternalInventoryLinkID>
+      <Shape>PLT</Shape>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Dimensions Metric="true">5X2000</Dimensions>
+      <Width UOM="MM">2000</Width>
+      <PlateThickness UOM="MM">5</PlateThickness>
+      <Grade>250</Grade>
+      <Length UOM="MM">3000</Length>
+      <Weight UOM="KG">235.5</Weight>
+      <Quantity>any</Quantity>
+      <Location></Location>
+      <SecondaryLocation></SecondaryLocation>
+      <Supplier>Warehouse</Supplier>
+      <HeatNumber></HeatNumber>
+      <HeatSerialNumber></HeatSerialNumber>
+      <PONumber></PONumber>
+      <BillOfLadingNumber></BillOfLadingNumber>
+      <CountryOfOrigin></CountryOfOrigin>
+      <MillOfOrigin></MillOfOrigin>
+      <PartNumber></PartNumber>
+      <CostCode></CostCode>
+      <CostType></CostType>
+      <Remarks></Remarks>
+    </InventoryItem>
+    <InventoryItem>
+      <ID>0</ID>
+      <ExternalInventoryLinkID>0</ExternalInventoryLinkID>
+      <Shape>PLT</Shape>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Dimensions Metric="true">5X2000</Dimensions>
+      <Width UOM="MM">2000</Width>
+      <PlateThickness UOM="MM">5</PlateThickness>
+      <Grade>250</Grade>
+      <Length UOM="MM">4000</Length>
+      <Weight UOM="KG">314</Weight>
+      <Quantity>any</Quantity>
+      <Location></Location>
+      <SecondaryLocation></SecondaryLocation>
+      <Supplier>Warehouse</Supplier>
+      <HeatNumber></HeatNumber>
+      <HeatSerialNumber></HeatSerialNumber>
+      <PONumber></PONumber>
+      <BillOfLadingNumber></BillOfLadingNumber>
+      <CountryOfOrigin></CountryOfOrigin>
+      <MillOfOrigin></MillOfOrigin>
+      <PartNumber></PartNumber>
+      <CostCode></CostCode>
+      <CostType></CostType>
+      <Remarks></Remarks>
+    </InventoryItem>
+    <InventoryItem>
+      <ID>0</ID>
+      <ExternalInventoryLinkID>0</ExternalInventoryLinkID>
+      <Shape>PLT</Shape>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Dimensions Metric="true">5X2500</Dimensions>
+      <Width UOM="MM">2500</Width>
+      <PlateThickness UOM="MM">5</PlateThickness>
+      <Grade>250</Grade>
+      <Length UOM="MM">4000</Length>
+      <Weight UOM="KG">392.5</Weight>
+      <Quantity>any</Quantity>
+      <Location></Location>
+      <SecondaryLocation></SecondaryLocation>
+      <Supplier>Warehouse</Supplier>
+      <HeatNumber></HeatNumber>
+      <HeatSerialNumber></HeatSerialNumber>
+      <PONumber></PONumber>
+      <BillOfLadingNumber></BillOfLadingNumber>
+      <CountryOfOrigin></CountryOfOrigin>
+      <MillOfOrigin></MillOfOrigin>
+      <PartNumber></PartNumber>
+      <CostCode></CostCode>
+      <CostType></CostType>
+      <Remarks></Remarks>
+    </InventoryItem>
+    <InventoryItem>
+      <ID>0</ID>
+      <ExternalInventoryLinkID>0</ExternalInventoryLinkID>
+      <Shape>PLT</Shape>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Dimensions Metric="true">5X1800</Dimensions>
+      <Width UOM="MM">1800</Width>
+      <PlateThickness UOM="MM">5</PlateThickness>
+      <Grade>250</Grade>
+      <Length UOM="MM">6000</Length>
+      <Weight UOM="KG">423.9</Weight>
+      <Quantity>any</Quantity>
+      <Location></Location>
+      <SecondaryLocation></SecondaryLocation>
+      <Supplier>Warehouse</Supplier>
+      <HeatNumber></HeatNumber>
+      <HeatSerialNumber></HeatSerialNumber>
+      <PONumber></PONumber>
+      <BillOfLadingNumber></BillOfLadingNumber>
+      <CountryOfOrigin></CountryOfOrigin>
+      <MillOfOrigin></MillOfOrigin>
+      <PartNumber></PartNumber>
+      <CostCode></CostCode>
+      <CostType></CostType>
+      <Remarks></Remarks>
+    </InventoryItem>
+    <InventoryItem>
+      <ID>0</ID>
+      <ExternalInventoryLinkID>0</ExternalInventoryLinkID>
+      <Shape>PLT</Shape>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Dimensions Metric="true">5X2000</Dimensions>
+      <Width UOM="MM">2000</Width>
+      <PlateThickness UOM="MM">5</PlateThickness>
+      <Grade>250</Grade>
+      <Length UOM="MM">6000</Length>
+      <Weight UOM="KG">471</Weight>
+      <Quantity>any</Quantity>
+      <Location></Location>
+      <SecondaryLocation></SecondaryLocation>
+      <Supplier>Warehouse</Supplier>
+      <HeatNumber></HeatNumber>
+      <HeatSerialNumber></HeatSerialNumber>
+      <PONumber></PONumber>
+      <BillOfLadingNumber></BillOfLadingNumber>
+      <CountryOfOrigin></CountryOfOrigin>
+      <MillOfOrigin></MillOfOrigin>
+      <PartNumber></PartNumber>
+      <CostCode></CostCode>
+      <CostType></CostType>
+      <Remarks></Remarks>
+    </InventoryItem>
+    <InventoryItem>
+      <ID>0</ID>
+      <ExternalInventoryLinkID>0</ExternalInventoryLinkID>
+      <Shape>PLT</Shape>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Dimensions Metric="true">5X2400</Dimensions>
+      <Width UOM="MM">2400</Width>
+      <PlateThickness UOM="MM">5</PlateThickness>
+      <Grade>250</Grade>
+      <Length UOM="MM">6000</Length>
+      <Weight UOM="KG">565.2</Weight>
+      <Quantity>any</Quantity>
+      <Location></Location>
+      <SecondaryLocation></SecondaryLocation>
+      <Supplier>Warehouse</Supplier>
+      <HeatNumber></HeatNumber>
+      <HeatSerialNumber></HeatSerialNumber>
+      <PONumber></PONumber>
+      <BillOfLadingNumber></BillOfLadingNumber>
+      <CountryOfOrigin></CountryOfOrigin>
+      <MillOfOrigin></MillOfOrigin>
+      <PartNumber></PartNumber>
+      <CostCode></CostCode>
+      <CostType></CostType>
+      <Remarks></Remarks>
+    </InventoryItem>
+    <InventoryItem>
+      <ID>0</ID>
+      <ExternalInventoryLinkID>0</ExternalInventoryLinkID>
+      <Shape>PLT</Shape>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Dimensions Metric="true">5X2400</Dimensions>
+      <Width UOM="MM">2400</Width>
+      <PlateThickness UOM="MM">5</PlateThickness>
+      <Grade>250</Grade>
+      <Length UOM="MM">9000</Length>
+      <Weight UOM="KG">847.8</Weight>
+      <Quantity>any</Quantity>
+      <Location></Location>
+      <SecondaryLocation></SecondaryLocation>
+      <Supplier>Warehouse</Supplier>
+      <HeatNumber></HeatNumber>
+      <HeatSerialNumber></HeatSerialNumber>
+      <PONumber></PONumber>
+      <BillOfLadingNumber></BillOfLadingNumber>
+      <CountryOfOrigin></CountryOfOrigin>
+      <MillOfOrigin></MillOfOrigin>
+      <PartNumber></PartNumber>
+      <CostCode></CostCode>
+      <CostType></CostType>
+      <Remarks></Remarks>
+    </InventoryItem>
+    <InventoryItem>
+      <ID>0</ID>
+      <ExternalInventoryLinkID>0</ExternalInventoryLinkID>
+      <Shape>PLT</Shape>
+      <DSTVProfileCode>B</DSTVProfileCode>
+      <Dimensions Metric="true">5X3000</Dimensions>
+      <Width UOM="MM">3000</Width>
+      <PlateThickness UOM="MM">5</PlateThickness>
+      <Grade>250</Grade>
+      <Length UOM="MM">9000</Length>
+      <Weight UOM="KG">1059.75</Weight>
+      <Quantity>any</Quantity>
+      <Location></Location>
+      <SecondaryLocation></SecondaryLocation>
+      <Supplier>Warehouse</Supplier>
+      <HeatNumber></HeatNumber>
+      <HeatSerialNumber></HeatSerialNumber>
+      <PONumber></PONumber>
+      <BillOfLadingNumber></BillOfLadingNumber>
+      <CountryOfOrigin></CountryOfOrigin>
+      <MillOfOrigin></MillOfOrigin>
+      <PartNumber></PartNumber>
+      <CostCode></CostCode>
+      <CostType></CostType>
+      <Remarks></Remarks>
+    </InventoryItem>
+  </AvailableInventory>
+
+</FabSuiteWorkOrder>

@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <OutputType>Exe</OutputType>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <EnableNETAnalyzers>false</EnableNETAnalyzers>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Clipper2Lib">
+      <HintPath>../lib/Clipper2Lib.dll</HintPath>
+    </Reference>
+    <Reference Include="Tekla.PowerFab.Extension">
+      <HintPath>../lib/Tekla.PowerFab.Extension.dll</HintPath>
+    </Reference>
+    <Compile Include="Regression/**/*.cs" />
+    <Compile Include="../src/**/*.cs" Exclude="../src/UI/Forms/**/*.cs;../src/UI/Controls/**/*.cs;../src/UI/Theming/**/*.cs;../src/Rendering/**/*.cs;../src/PowerFab/Extension.cs;../src/Inventory/PowerFabInventoryNavigator.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Fixtures/ABE/**/*" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+</Project>
